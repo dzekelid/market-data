@@ -14,8 +14,8 @@ tags:
 - Have API Key
 - Forex Quote
 - Currency
-created: "2018-02-25"
-modified: "2018-02-25"
+created: "2018-02-26"
+modified: "2018-02-26"
 url: https://raw.githubusercontent.com/streamdata-gallery/market-data/master/_listings/1forge/apis.yaml
 specificationVersion: "0.14"
 apis:
