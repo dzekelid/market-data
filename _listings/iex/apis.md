@@ -8,8 +8,8 @@ x-alexaRank: "225220"
 tags:
 - Marketplace
 - Market Data
-created: "2018-02-25"
-modified: "2018-02-25"
+created: "2018-02-26"
+modified: "2018-02-26"
 url: https://raw.githubusercontent.com/streamdata-gallery/market-data/master/_listings/iex/apis.yaml
 specificationVersion: "0.14"
 apis:
