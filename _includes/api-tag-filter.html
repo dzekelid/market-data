@@ -14,7 +14,7 @@
           thisid = elements[i].getAttribute("id");
           console.log(thisid);
           console.log(thisrank);
-          if(ranking != thisrank)
+          if(ranking != 'All' && ranking != thisrank)
             {
             document.getElementById(thisid).style.display == 'none';
             }
