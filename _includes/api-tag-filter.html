@@ -1,24 +1,80 @@
 <section class="filterTags" data-filter-tags="">
    <div class="filterTags__container">
 
-     <form>
-     <strong>Filter By:</strong>
-     <select name="filter" id="tagfilter">
-     {% assign navigation = site.data.navigation | sort: 'label' %}
-     {% for nav in navigation %}}
-         <option value="{{ nav.url }}"{% if nav.label == site.tag %} selected{% endif %}>{{ nav.label }}</option>
-     {% endfor %}
-     </select>
-     <input type="button" onclick="filterbytag();" name="filter_by" value="Go" />
+
+     <table>
+       <tr>
+         <td width="33%">
+
+           <form>
+           <strong>Filter By Ranking:</strong>
+           <select name="rankFilter" id="rankFilter">
+             <option value="All">All</option>
+             <option value="10">10</option>
+             <option value="9">9</option>
+             <option value="8">8</option>
+           </select>
+           <input type="button" onclick="filterbyrank();" name="filter_by" value="Go" />
+
+         </td>
+
+         <td width="33%">
+
+           <form>
+           <strong>View By Tag:</strong>
+           <select name="filter" id="tagfilter">
+           {% assign navigation = site.data.navigation | sort: 'label' %}
+           {% for nav in navigation %}}
+               <option value="{{ nav.url }}"{% if nav.label == site.tag %} selected{% endif %}>{{ nav.label }}</option>
+           {% endfor %}
+           </select>
+           <input type="button" onclick="filterbytag();" name="filter_by" value="Go" />
+
+         </td>
+
+         <td width="33%">
+
+           <form>
+           <strong>Filter By Verb:</strong>
+           <select name="verbFilter" id="verbFilter">
+             <option value="All">All</option>
+             <option value="GET">GET</option>
+             <option value="POST">POST</option>
+             <option value="PUT">PUT</option>
+             <option value="DELETE">DELETE</option>
+           </select>
+           <input type="button" onclick="filterbyverb();" name="filter_by" value="Go" />
+
+         </td>
+       </tr>
+     </table>
+
    </form>
 
    <script>
-    function filterbytag()
+    function filterbyrank()
+      {
+      var elements = document.getElementsByTagName('listing');
+
+      for (var i = 0; i < elements.length; i++)
+        {
+        console.log(elements[i]);
+        }
+
+      }
+    function filterbytag()s
       {
       url = document.getElementById('tagfilter').value;
       //alert(url);
       location.href = url;
       }
+    function filterbyverb()
+      {
+      url = document.getElementById('tagfilter').value;
+      //alert(url);
+      location.href = url;
+      }
+
    </script>
 
    </div>
