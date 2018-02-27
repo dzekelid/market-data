@@ -52,7 +52,7 @@
         verb = document.getElementById('verbFilter').value;
         verb = verb.toLowerCase();
         var elements = document.getElementsByClassName('taggedLinkCard taggedLinkCard--red');
-
+        console.log("verb: " + verb);
         if(verb != 'All')
           {
           for (var i = 0; i < elements.length; i++)
