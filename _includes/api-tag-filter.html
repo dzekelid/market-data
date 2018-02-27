@@ -9,6 +9,7 @@
 
        for (var i = 0; i < elements.length; i++)
          {
+         thisid = elements[i].getAttribute("id"); 
          document.getElementById(thisid).style.display = '';
          }
        }
@@ -45,7 +46,7 @@
       function filterbyverb()
         {
         reset();
-          
+
         verb = document.getElementById('verbFilter').value;
         var elements = document.getElementsByClassName('taggedLinkCard taggedLinkCard--red');
 
