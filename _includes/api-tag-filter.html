@@ -1,6 +1,31 @@
 <section class="filterTags" data-filter-tags="">
    <div class="filterTags__container">
 
+     <script>
+      function filterbyrank()
+        {
+        var elements = document.getElementsByTagName('listing');
+
+        for (var i = 0; i < elements.length; i++)
+          {
+          console.log(elements[i]);
+          }
+
+        }
+      function filterbytag()s
+        {
+        url = document.getElementById('tagfilter').value;
+        //alert(url);
+        location.href = url;
+        }
+      function filterbyverb()
+        {
+        url = document.getElementById('tagfilter').value;
+        //alert(url);
+        location.href = url;
+        }
+
+     </script>
 
      <table>
        <tr>
@@ -50,32 +75,6 @@
      </table>
 
    </form>
-
-   <script>
-    function filterbyrank()
-      {
-      var elements = document.getElementsByTagName('listing');
-
-      for (var i = 0; i < elements.length; i++)
-        {
-        console.log(elements[i]);
-        }
-
-      }
-    function filterbytag()s
-      {
-      url = document.getElementById('tagfilter').value;
-      //alert(url);
-      location.href = url;
-      }
-    function filterbyverb()
-      {
-      url = document.getElementById('tagfilter').value;
-      //alert(url);
-      location.href = url;
-      }
-
-   </script>
 
    </div>
 </section>
