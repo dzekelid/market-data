@@ -27,12 +27,12 @@
           thisid = elements[i].getAttribute("id");
           if(ranking != 'All' && ranking != thisrank)
             {
-            console.log("removing!");
+            //console.log("removing!");
             document.getElementById(thisid).style.display = 'none';
             }
           else
             {
-            console.log("leaving!");
+            //console.log("leaving!");
             }
           //console.log(elements[i].getAttribute("verb"));
           }
@@ -55,16 +55,16 @@
           {
           thisverb = elements[i].getAttribute("verb");
           thisid = elements[i].getAttribute("id");
-          console.log("verb: " + verb);
-          console.log("thisverb: " + thisverb);
+          //console.log("verb: " + verb);
+          //console.log("thisverb: " + thisverb);
           if(verb != 'All' && verb != thisverb)
             {
-            console.log("removing!");
+            //console.log("removing!");
             document.getElementById(thisid).style.display = 'none';
             }
           else
             {
-            console.log("leaving!");
+            //console.log("leaving!");
             }
           //console.log(elements[i].getAttribute("verb"));
           }
@@ -77,7 +77,7 @@
          <td width="33%">
 
            <form>
-           <strong>Filter By Ranking:</strong>
+           <strong>Ranking:</strong>
            <select name="rankFilter" id="rankFilter">
              <option value="All">All</option>
              <option value="10">10</option>
@@ -91,7 +91,7 @@
          <td width="33%">
 
            <form>
-           <strong>View By Tag:</strong>
+           <strong>Tag(s):</strong>
            <select name="filter" id="tagfilter">
            {% assign navigation = site.data.navigation | sort: 'label' %}
            {% for nav in navigation %}}
@@ -105,7 +105,7 @@
          <td width="33%">
 
            <form>
-           <strong>Filter By Verb:</strong>
+           <strong>Verb:</strong>
            <select name="verbFilter" id="verbFilter">
              <option value="All">All</option>
              <option value="GET">GET</option>
