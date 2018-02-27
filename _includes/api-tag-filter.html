@@ -4,12 +4,21 @@
      <script>
       function filterbyrank()
         {
+
+        ranking = document.getElementById('rankFilter').value;
         var elements = document.getElementsByClassName('taggedLinkCard taggedLinkCard--red');
 
         for (var i = 0; i < elements.length; i++)
           {
-          console.log(elements[i].getAttribute("rank"));
-          console.log(elements[i].getAttribute("verb"));
+          thisrank = elements[i].getAttribute("rank");
+          thisid = elements[i].getAttribute("id");
+          console.log(thisid);
+          console.log(thisrank);
+          if(ranking != thisrank)
+            {
+            document.getElementById(thisid).style.display == 'none';
+            }
+          //console.log(elements[i].getAttribute("verb"));
           }
 
         }
