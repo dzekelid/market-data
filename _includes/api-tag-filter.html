@@ -9,7 +9,7 @@
 
        for (var i = 0; i < elements.length; i++)
          {
-         thisid = elements[i].getAttribute("id"); 
+         thisid = elements[i].getAttribute("id");
          document.getElementById(thisid).style.display = '';
          }
        }
@@ -54,6 +54,8 @@
           {
           thisverb = elements[i].getAttribute("verb");
           thisid = elements[i].getAttribute("id");
+          console.log("verb: " + verb);
+          console.log("thisverb: " + thisverb);
           if(verb != 'All' && verb != thisverb)
             {
             console.log("removing!");
