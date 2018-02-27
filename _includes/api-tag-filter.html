@@ -16,7 +16,12 @@
           console.log(thisrank);
           if(ranking != 'All' && ranking != thisrank)
             {
+            console.log("removing!");
             document.getElementById(thisid).style.display == 'none';
+            }
+          else
+            {
+            console.log("leaving!");
             }
           //console.log(elements[i].getAttribute("verb"));
           }
