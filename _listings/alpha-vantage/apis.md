@@ -29,7 +29,7 @@ apis:
   tags: Market Data
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/market-data/master/_listings/alpha-vantage/query-function-digital-currency-monthly-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/market-data/master/_listings/alpha-vantage/query-function-sma-get.md
 x-common:
 - type: x-command-line-interface
   url: https://www.npmjs.com/package/alpha-vantage-cli
