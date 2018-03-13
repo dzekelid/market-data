@@ -22,7 +22,7 @@ apis:
   tags: Market Data
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/market-data/master/_listings/iex/deep-book-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/market-data/master/_listings/iex/deep-system-event-get.md
 x-common:
 - type: x-authentication
   url: https://iextrading.com/developer/docs/#authentication
