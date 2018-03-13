@@ -22,7 +22,7 @@ apis:
   tags: Market Data
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/market-data/master/_listings/iex/ref-data-daily-list-symbol-directory-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/market-data/master/_listings/iex/ref-data-daily-list-next-day-ex-date-get.md
 x-common:
 - type: x-authentication
   url: https://iextrading.com/developer/docs/#authentication
