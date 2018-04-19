@@ -14,8 +14,7 @@
    </div>
 </section>
 
-{% if stream_rank.time_percentage != 0 and stream_rank.size_percentage != 0 and stream_rank.change_percentage != 0 %}
-{% if stream_rank.time_percentage != '' and stream_rank.size_percentage != '' and stream_rank.change_percentage != '' %}
+{% if stream_rank.time_percentage > 0 %}
   <section class="APIDetailStats">
      <h2 class="APIDetailStats__title">Savings With Streamdata.io</h2>
      <div class="APIDetailStats__row">
@@ -33,7 +32,6 @@
         </div>
      </div>
   </section>
-{% endif %}
 {% endif %}
 
 <section class="APIDescription">
