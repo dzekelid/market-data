@@ -14,28 +14,6 @@
    </div>
 </section>
 
-{% if stream_rank.time_percentage != 0 and stream_rank.size_percentage != 0 and stream_rank.change_percentage != 0 %}
-{% if stream_rank.time_percentage != '~' and stream_rank.size_percentage != '~' and stream_rank.change_percentage != '~' %}
-  <section class="APIDetailStats">
-     <h2 class="APIDetailStats__title">Savings With Streamdata.io</h2>
-     <div class="APIDetailStats__row">
-        <div class="APIDetailStats__statContainer">
-           <p class="APIDetailStats__stat">{{ stream_rank.time_percentage }}%</p>
-           <p class="APIDetailStats__copy">Processor Savings</p>
-        </div>
-        <div class="APIDetailStats__statContainer">
-           <p class="APIDetailStats__stat">{{ stream_rank.size_percentage }}%</p>
-           <p class="APIDetailStats__copy">Bandwidth Savings</p>
-        </div>
-        <div class="APIDetailStats__statContainer">
-           <p class="APIDetailStats__stat">{{ stream_rank.change_percentage }}%</p>
-           <p class="APIDetailStats__copy">Data Change</p>
-        </div>
-     </div>
-  </section>
-{% endif %}
-{% endif %}
-
 <section class="APIDescription">
    <div class="APIDesciption__container">
       <h2 class="APIDescription__header">API Description</h2>
