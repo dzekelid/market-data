@@ -29,7 +29,7 @@ apis:
   tags: Market Data
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/alpha-vantage/query-function-time-series-monthly-adjusted-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/alpha-vantage/query-function-batch-stock-quotes-get.md
 x-common:
 - type: x-command-line-interface
   url: https://www.npmjs.com/package/alpha-vantage-cli
