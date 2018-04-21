@@ -14,8 +14,8 @@ tags:
 - Have API Key
 - Free Tier
 - Blockchain
-created: "2018-03-23"
-modified: "2018-03-23"
+created: "2018-04-20"
+modified: "2018-04-20"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/alpha-vantage/apis.yaml
 specificationVersion: "0.14"
 apis:
@@ -29,7 +29,7 @@ apis:
   tags: Market Data
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/alpha-vantage/query-function-sector-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/alpha-vantage/query-function-time-series-intraday-get.md
 x-common:
 - type: x-command-line-interface
   url: https://www.npmjs.com/package/alpha-vantage-cli
