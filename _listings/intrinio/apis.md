@@ -30,7 +30,7 @@ apis:
   tags: Market Data
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/intrinio/fundamentals-standardized-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/intrinio/financials-standardized-get.md
 x-common:
 - type: x-applications-showcase
   url: https://intrinio.com/marketplace/apps
