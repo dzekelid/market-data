@@ -40,16 +40,16 @@ paths:
 definitions: []
 x-collection-name: IEX
 x-streamrank:
-  polling_total_time_average: "0.17"
-  polling_size_download_average: "2"
-  streaming_total_time_average: "0.17"
-  streaming_size_download_average: "2"
-  change_yes: "1"
-  change_no: "0"
-  time_percentage: "0"
-  size_percentage: "0"
-  change_percentage: "100"
-  last_run: "2018-02-19"
-  days_run: "0"
-  minute_run: "0"
+  polling_total_time_average: 0
+  polling_size_download_average: 0
+  streaming_total_time_average: 0
+  streaming_size_download_average: 0
+  change_yes: 0
+  change_no: 0
+  time_percentage: 0
+  size_percentage: 0
+  change_percentage: 0
+  last_run: ""
+  days_run: 0
+  minute_run: 0
 ---
