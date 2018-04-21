@@ -22,8 +22,8 @@ tags:
 - Finance
 - Enterprise
 - Data
-created: "2018-03-23"
-modified: "2018-03-23"
+created: "2018-04-20"
+modified: "2018-04-20"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/quandl/apis.yaml
 specificationVersion: "0.14"
 apis:
@@ -35,7 +35,7 @@ apis:
   tags: Market Data
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/quandl/datasets-database-code-dataset-code-metadata-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/quandl/databases-get.md
 x-common:
 - type: x-authentication
   url: https://docs.quandl.com/docs#section-authentication
