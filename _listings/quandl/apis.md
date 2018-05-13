@@ -36,18 +36,18 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/quandl/datasets-database-code-dataset-code-metadata-get.md
-- name: Quandl API Get Data
-  description: "You can download all the data in a premium database in a single call,
-    by appending /data to your database request. You can specify whether you want
-    the entire history, or merely the last day\u2019s worth of updates, by setting
-    the correct query parameters."
+- name: Quandl API Get Datasets
+  description: 'You can search for individual datasets on Quandl by making the following
+    API request.  The API will return datasets related to your query, as well as datasets
+    that belong to databases related to your query.  Datasets are returned 100 results
+    at a time. You can page through the results using these parameters:'
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11440-quandl.jpg
   humanURL: https://www.quandl.com
   baseURL: https://www.quandl.com//api/v3
   tags: Market Data
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/quandl/databases-database-code-data-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/quandl/datasets-get.md
 x-common:
 - type: x-authentication
   url: https://docs.quandl.com/docs#section-authentication
