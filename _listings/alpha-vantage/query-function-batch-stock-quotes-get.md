@@ -1,11 +1,10 @@
 ---
 swagger: "2.0"
 info:
-  title: Alpha Vantage
-  description: 'Alpha Vantage APIs are grouped into four categories: (1) Stock Time
-    Series Data, (2) Physical and Digital/Crypto Currencies (e.g., Bitcoin), (3) Stock
-    Technical Indicators, and (4) Sector Performances. All APIs are realtime: the
-    latest data points are derived from the current trading day. '
+  title: Alpha Vantage Batch Stock Quotes
+  description: The batch stock quotes API enables the querying of multiple stock quotes
+    with a single API request, updated realtime. It may serve as a lightweight alternative
+    to our core stock time series APIs above (which have richer content but are symbol-specific).
   version: 1.0.0
 host: www.alphavantage.co
 basePath: /
