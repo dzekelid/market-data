@@ -31,18 +31,19 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/intrinio/executives-roles-get.md
-- name: Intrinio API Standardized Fundamentals
-  description: Returns a list of available standardized fundamentals (fiscal year
-    and fiscal period) for a given ticker and statement.  Also, you may add a date
-    and type parameter to specify the fundamentals you wish to be returned in the
-    response.
+- name: Intrinio API Standardized Financials
+  description: Returns professional-grade historical financial data.  This data is
+    standardized, cleansed and verified to ensure the highest quality data sourced
+    directly from the XBRL financial statements.  The primary purpose of standardized
+    financials are to facilitate comparability across a single company&rsquo;s fundamentals
+    and across all companies fundamentals.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/IntrinioLogo-Green-optimized.png
   humanURL: https://intrinio.com
   baseURL: https://api.intrinio.com//
   tags: Market Data
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/intrinio/fundamentals-standardized-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/intrinio/financials-standardized-get.md
 x-common:
 - type: x-applications-showcase
   url: https://intrinio.com/marketplace/apps
