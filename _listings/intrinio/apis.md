@@ -31,16 +31,15 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/intrinio/executives-roles-get.md
-- name: Intrinio API Bloggers
-  description: Returns a list of bloggers. TipRanks bloggers are anonymized, but you
-    will be able to reference them with the provided id field.
+- name: Intrinio API Blogger Ratings
+  description: Returns blogger buy/sell/hold ratings for a specific security and date.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/IntrinioLogo-Green-optimized.png
   humanURL: https://intrinio.com
   baseURL: https://api.intrinio.com//
   tags: Market Data
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/intrinio/bloggers-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/intrinio/blogger-ratings-get.md
 x-common:
 - type: x-applications-showcase
   url: https://intrinio.com/marketplace/apps
