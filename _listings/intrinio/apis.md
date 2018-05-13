@@ -31,18 +31,15 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/intrinio/executives-roles-get.md
-- name: Intrinio API Exchange Prices
-  description: Returns professional-grade historical stock prices for all securities
-    traded on a stock exchange for a single specified day.  Historical prices are
-    available back to 1996 or the IPO date, with some companies with data back to
-    the 1970s.
+- name: Intrinio API Company SEC Filings
+  description: Returns the complete list of SEC filings for a company.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/IntrinioLogo-Green-optimized.png
   humanURL: https://intrinio.com
   baseURL: https://api.intrinio.com//
   tags: Market Data
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/intrinio/prices-exchange-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/intrinio/companies-filings-get.md
 x-common:
 - type: x-applications-showcase
   url: https://intrinio.com/marketplace/apps
