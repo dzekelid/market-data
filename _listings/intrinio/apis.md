@@ -31,16 +31,16 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/intrinio/executives-roles-get.md
-- name: Intrinio API Press Releases
-  description: Returns the most recent press releases by Nasdaq GlobeNewsire for a
-    company.
+- name: Intrinio API Executive Master
+  description: Returns a list of all executives and their unique executive identifier,
+    including both U.S. and International executives.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/IntrinioLogo-Green-optimized.png
   humanURL: https://intrinio.com
   baseURL: https://api.intrinio.com//
   tags: Market Data
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/intrinio/press-releases-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/intrinio/executives-get.md
 x-common:
 - type: x-applications-showcase
   url: https://intrinio.com/marketplace/apps
