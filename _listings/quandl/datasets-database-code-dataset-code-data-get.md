@@ -1,8 +1,17 @@
 ---
 swagger: "2.0"
 info:
-  title: Quandl
-  description: The Quandl API
+  title: Quandl API Get Datasets Data
+  description: "To download the data in a dataset, simply append /data to the Quandl
+    code in your API request. (You can replace .csv with .json or .xml in this request).
+    If you request CSV, only the data you requested will be returned.  If you request
+    JSON or XML, both data and input parameters will be returned. You can customize
+    the dataset object being returned by adding various optional parameters to your
+    query. Available parameters are tabulated below: If a datapoint for time t is
+    denoted as y[t] and the transformed data as y\u2019[t], the available transformations
+    are defined as below: y[0] in the above table refers to the starting date for
+    the API call, i.e., the date specified by start_date= or rows=, NOT the starting
+    date of the underlying dataset."
   version: 1.0.0
 host: www.quandl.com
 basePath: /api/v3
