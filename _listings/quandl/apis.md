@@ -36,24 +36,17 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/quandl/datasets-database-code-dataset-code-metadata-get.md
-- name: Quandl API Get Datasets Data
-  description: "To download the data in a dataset, simply append /data to the Quandl
-    code in your API request. (You can replace .csv with .json or .xml in this request).
-    If you request CSV, only the data you requested will be returned.  If you request
-    JSON or XML, both data and input parameters will be returned. You can customize
-    the dataset object being returned by adding various optional parameters to your
-    query. Available parameters are tabulated below: If a datapoint for time t is
-    denoted as y[t] and the transformed data as y\u2019[t], the available transformations
-    are defined as below: y[0] in the above table refers to the starting date for
-    the API call, i.e., the date specified by start_date= or rows=, NOT the starting
-    date of the underlying dataset."
+- name: Quandl API Get Datasets Metadata
+  description: 'To download the metadata associated with any dataset object, append
+    /metadata to your API request. (You can replace .csv with .json or .xml in this
+    request). The following metadata fields are available in the response:'
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11440-quandl.jpg
   humanURL: https://www.quandl.com
   baseURL: https://www.quandl.com//api/v3
   tags: Market Data
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/quandl/datasets-database-code-dataset-code-data-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/quandl/datasets-database-code-dataset-code-metadata-get.md
 x-common:
 - type: x-authentication
   url: https://docs.quandl.com/docs#section-authentication
