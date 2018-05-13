@@ -31,15 +31,18 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/intrinio/executives-roles-get.md
-- name: Intrinio API Company SEC Filings
-  description: Returns the complete list of SEC filings for a company.
+- name: Intrinio API Standardized Fundamentals
+  description: Returns a list of available standardized fundamentals (fiscal year
+    and fiscal period) for a given ticker and statement.  Also, you may add a date
+    and type parameter to specify the fundamentals you wish to be returned in the
+    response.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/IntrinioLogo-Green-optimized.png
   humanURL: https://intrinio.com
   baseURL: https://api.intrinio.com//
   tags: Market Data
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/intrinio/companies-filings-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/intrinio/fundamentals-standardized-get.md
 x-common:
 - type: x-applications-showcase
   url: https://intrinio.com/marketplace/apps
