@@ -31,16 +31,18 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/intrinio/executives-roles-get.md
-- name: Intrinio API Company Master
-  description: Returns the master list of all companies covered by the Intrinio Data
-    Marketplace.  You can view the Company/Security Master here.
+- name: Intrinio API Index Master
+  description: 'Returns indices list and information for all indices covered by Intrinio.
+    There are three distinct types of indices: Stock Market, SIC (Sector &amp; Industry),
+    and Economic.  You can view the Stock Market Indices Master, SIC Indices Master,
+    and the Economic Indices Master.'
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/IntrinioLogo-Green-optimized.png
   humanURL: https://intrinio.com
   baseURL: https://api.intrinio.com//
   tags: Market Data
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/intrinio/companies-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/intrinio/indices-get.md
 x-common:
 - type: x-applications-showcase
   url: https://intrinio.com/marketplace/apps
