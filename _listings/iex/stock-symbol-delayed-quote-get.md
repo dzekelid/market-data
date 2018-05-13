@@ -1,10 +1,8 @@
 ---
 swagger: "2.0"
 info:
-  title: IEX
-  description: The IEX API is a set of services designed for developers and engineers.
-    It can be used to build high-quality apps and services. We&rsquo;re always working
-    to improve the IEX API. Please check back for enhancements and improvements.
+  title: IEX Trading API Delayed Quote
+  description: This returns the 15 minute delayed market quote.
   termsOfService: https://iextrading.com/api-terms/
   version: 1.0.0
 host: api.iextrading.com
