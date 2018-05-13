@@ -1,10 +1,10 @@
 ---
 swagger: "2.0"
 info:
-  title: IEX
-  description: The IEX API is a set of services designed for developers and engineers.
-    It can be used to build high-quality apps and services. We&rsquo;re always working
-    to improve the IEX API. Please check back for enhancements and improvements.
+  title: IEX Trading API Market
+  description: This endpoint returns near real time traded volume on the markets.
+    Market data is captured by the IEX system from approximately 7:45 a.m. to 5:15
+    p.m. ET.
   termsOfService: https://iextrading.com/api-terms/
   version: 1.0.0
 host: api.iextrading.com
