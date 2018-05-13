@@ -1,8 +1,10 @@
 ---
 swagger: "2.0"
 info:
-  title: Quandl
-  description: The Quandl API
+  title: Quandl API Get Datasets Metadata
+  description: 'To download the metadata associated with any dataset object, append
+    /metadata to your API request. (You can replace .csv with .json or .xml in this
+    request). The following metadata fields are available in the response:'
   version: 1.0.0
 host: www.quandl.com
 basePath: /api/v3
