@@ -31,16 +31,17 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/intrinio/executives-roles-get.md
-- name: Intrinio API Executive Master
-  description: Returns a list of all executives and their unique executive identifier,
-    including both U.S. and International executives.
+- name: Intrinio API Company Executive Contacts
+  description: Returns a list of all information for an executive and their related
+    companies.  Information includes the unique Intrinio executive company identifier,
+    and detailed contact information for the executive at a specified company.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/IntrinioLogo-Green-optimized.png
   humanURL: https://intrinio.com
   baseURL: https://api.intrinio.com//
   tags: Market Data
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/intrinio/executives-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/intrinio/executives-companies-get.md
 x-common:
 - type: x-applications-showcase
   url: https://intrinio.com/marketplace/apps
