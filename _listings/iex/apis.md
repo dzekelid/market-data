@@ -23,15 +23,15 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/market-get.md
-- name: IEX Trading API Operational Halt Status
-  description: Subscribe to the ophaltstatus channel.
+- name: IEX Trading API Security Event
+  description: Subscribe to the securityevent channel.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/IEX-Logo.png
   humanURL: https://iextrading.com
   baseURL: https://api.iextrading.com//1.0
   tags: Market Data
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/deep-op-halt-status-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/deep-security-event-get.md
 x-common:
 - type: x-authentication
   url: https://iextrading.com/developer/docs/#authentication
