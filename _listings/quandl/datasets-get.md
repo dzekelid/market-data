@@ -1,8 +1,11 @@
 ---
 swagger: "2.0"
 info:
-  title: Quandl
-  description: The Quandl API
+  title: Quandl API Get Datasets
+  description: 'You can search for individual datasets on Quandl by making the following
+    API request.  The API will return datasets related to your query, as well as datasets
+    that belong to databases related to your query.  Datasets are returned 100 results
+    at a time. You can page through the results using these parameters:'
   version: 1.0.0
 host: www.quandl.com
 basePath: /api/v3
