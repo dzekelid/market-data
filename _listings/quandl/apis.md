@@ -36,17 +36,15 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/quandl/datasets-database-code-dataset-code-metadata-get.md
-- name: Quandl API Get Databases
-  description: 'You can search for specific databases on Quandl by making the following
-    API request.  The API will return databases related to your query. Databases are
-    returned 100 results at a time. You can page through the results using these parameters:'
+- name: Quandl API Get Database
+  description: This call returns descriptive metadata for the specified database.
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11440-quandl.jpg
   humanURL: https://www.quandl.com
   baseURL: https://www.quandl.com//api/v3
   tags: Market Data
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/quandl/databases-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/quandl/databases-database-code-get.md
 x-common:
 - type: x-authentication
   url: https://docs.quandl.com/docs#section-authentication
