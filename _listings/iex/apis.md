@@ -23,16 +23,15 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/market-get.md
-- name: IEX Trading API HIST
-  description: HIST will provide the output of IEX data products for download on a
-    T+1 basis. Data will remain available for the trailing twelve months.
+- name: IEX Trading API Book
+  description: Subscribe to the book channel.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/IEX-Logo.png
   humanURL: https://iextrading.com
   baseURL: https://api.iextrading.com//1.0
   tags: Market Data
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/hist-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/deep-book-get.md
 x-common:
 - type: x-authentication
   url: https://iextrading.com/developer/docs/#authentication
