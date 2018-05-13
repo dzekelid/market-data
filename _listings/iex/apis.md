@@ -23,15 +23,15 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/market-get.md
-- name: IEX Trading API Batch Requests
-  description: Returns batch stock quotes.
+- name: IEX Trading API Delayed Quote
+  description: This returns the 15 minute delayed market quote.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/IEX-Logo.png
   humanURL: https://iextrading.com
   baseURL: https://api.iextrading.com//1.0
   tags: Market Data
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stock-market-batch-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stock-symbol-delayed-quote-get.md
 x-common:
 - type: x-authentication
   url: https://iextrading.com/developer/docs/#authentication
