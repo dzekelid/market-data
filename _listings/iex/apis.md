@@ -23,16 +23,15 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/market-get.md
-- name: IEX Trading API Recent
-  description: This call will return a minimum of the last five trading days up to
-    all trading days of the current month.
+- name: IEX Trading API Historical Summary
+  description: See our stats page for a reference of the keys.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/IEX-Logo.png
   humanURL: https://iextrading.com
   baseURL: https://api.iextrading.com//1.0
   tags: Market Data
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stats-recent-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stats-historical-get.md
 x-common:
 - type: x-authentication
   url: https://iextrading.com/developer/docs/#authentication
