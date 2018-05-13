@@ -31,16 +31,20 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/intrinio/executives-roles-get.md
-- name: Intrinio API Securities Search/Screener
-  description: Returns a list of all securities that match the given conditions. The
-    API call credits required for each call is equal to the number of conditions specified.
+- name: Intrinio API Historical Data
+  description: Returns the historical data for for a selected identifier (ticker symbol
+    or index symbol) for a selected tag.  The complete list of tags available through
+    this function are available here.  Income statement, cash flow statement, and
+    ratios are returned as trailing twelve months values by default, but can be changed
+    with the type parameter.  All other historical data points are returned as their
+    value on a certain day based on filings reported as of that date.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/IntrinioLogo-Green-optimized.png
   humanURL: https://intrinio.com
   baseURL: https://api.intrinio.com//
   tags: Market Data
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/intrinio/securities-search-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/intrinio/historical-data-get.md
 x-common:
 - type: x-applications-showcase
   url: https://intrinio.com/marketplace/apps
