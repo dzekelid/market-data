@@ -44,17 +44,16 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/intrinio/financials-standardized-get.md
-- name: Intrinio API Data Point
-  description: Returns the most recent median data point for an Economic index for
-    a selected tag.  The complete list of Economic Indices can be found here.  The
-    complete list of Economic tags available through this function are available here.
+- name: Intrinio API Bank Holding Companies
+  description: Returns bank holding company list and information for all bank holding
+    companies covered by Intrinio.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/IntrinioLogo-Green-optimized.png
   humanURL: https://intrinio.com
   baseURL: https://api.intrinio.com//
   tags: Market Data
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/intrinio/data-point-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/intrinio/banks-holding-companies-get.md
 x-common:
 - type: x-applications-showcase
   url: https://intrinio.com/marketplace/apps
