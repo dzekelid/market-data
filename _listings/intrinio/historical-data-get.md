@@ -1,14 +1,13 @@
 ---
 swagger: "2.0"
 info:
-  title: Intrinio
-  description: Through our Intrinio Data Marketplace, we offer a wide selection of
-    financial data feeds sourced by our own proprietary processes as well as from
-    many data vendors. The primary application of the Intrinio API is for use in third-party
-    applications and integrations or for end-users utilizing the Excel add-in and
-    Google Sheets add-on. The Intrinio API uses HTTPS verbs and a RESTful endpoint
-    structure, which makes it easy to request data from Intrinio. Basic Authentication
-    is administered over HTTPS. Responses are delivered in JSON format.
+  title: Intrinio API Historical Data
+  description: Returns the historical data for for a selected identifier (ticker symbol
+    or index symbol) for a selected tag.  The complete list of tags available through
+    this function are available here.  Income statement, cash flow statement, and
+    ratios are returned as trailing twelve months values by default, but can be changed
+    with the type parameter.  All other historical data points are returned as their
+    value on a certain day based on filings reported as of that date.
   version: 1.0.0
 host: api.intrinio.com
 basePath: /
