@@ -30,8 +30,8 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/alpha-vantage/query-function-sector-get.md
-- name: Alpha Vantage Simple Moving Average (SMA)
-  description: This API returns the simple moving average (SMA) values.
+- name: Alpha Vantage Exponential Moving Average (EMA)
+  description: This API returns the exponential moving average (EMA)
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
     Shot 2018-01-22 at 4.52.35 PM.png
   humanURL: https://www.alphavantage.co
@@ -39,7 +39,7 @@ apis:
   tags: Market Data
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/alpha-vantage/query-function-sma-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/alpha-vantage/query-function-ema-get.md
 x-common:
 - type: x-command-line-interface
   url: https://www.npmjs.com/package/alpha-vantage-cli
