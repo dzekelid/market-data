@@ -44,15 +44,17 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/intrinio/financials-standardized-get.md
-- name: Intrinio API Fetch Valuation Outputs
-  description: GET https://api.intrinio.com/valuation/:id/outputs
+- name: Intrinio API Insider Transactions by Company
+  description: Returns a list of all insider transactions in a company.  Criteria
+    for being an insider include being a director, officer, or 10%+ owner in the company.  Transactions
+    are detailed for both non-derivative and derivative transactions by the insider.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/IntrinioLogo-Green-optimized.png
   humanURL: https://intrinio.com
   baseURL: https://api.intrinio.com//
   tags: Market Data
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/intrinio/valuation-70087-outputs-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/intrinio/companies-insider-transactions-get.md
 x-common:
 - type: x-applications-showcase
   url: https://intrinio.com/marketplace/apps
