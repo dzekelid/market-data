@@ -31,16 +31,16 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/intrinio/executives-roles-get.md
-- name: Intrinio API Stock Exchange Master
-  description: Returns stock exchange list and information for all stock exchanges
-    covered by Intrinio.
+- name: Intrinio API Securities
+  description: Returns security list and information for all securities covered by
+    Intrinio.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/IntrinioLogo-Green-optimized.png
   humanURL: https://intrinio.com
   baseURL: https://api.intrinio.com//
   tags: Market Data
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/intrinio/stock-exchanges-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/intrinio/securities-get.md
 x-common:
 - type: x-applications-showcase
   url: https://intrinio.com/marketplace/apps
