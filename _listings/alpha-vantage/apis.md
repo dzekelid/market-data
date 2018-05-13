@@ -30,8 +30,9 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/alpha-vantage/query-function-sector-get.md
-- name: Alpha Vantage Balance Volume (OBV)
-  description: This API returns the on balance volume (OBV) values.
+- name: Alpha Vantage Sector Performance
+  description: This API returns the realtime and historical sector performances calculated
+    from S&P500 incumbents.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
     Shot 2018-01-22 at 4.52.35 PM.png
   humanURL: https://www.alphavantage.co
@@ -39,7 +40,7 @@ apis:
   tags: Market Data
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/alpha-vantage/query-function-obv-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/alpha-vantage/query-function-sector-get.md
 x-common:
 - type: x-command-line-interface
   url: https://www.npmjs.com/package/alpha-vantage-cli
