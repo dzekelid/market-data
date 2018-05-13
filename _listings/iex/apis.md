@@ -23,15 +23,16 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/market-get.md
-- name: IEX Trading API Earnings
-  description: Pulls data from the four most recent reported quarters.
+- name: IEX Trading API Financials
+  description: Pulls income statement, balance sheet, and cash flow data from the
+    four most recent reported quarters.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/IEX-Logo.png
   humanURL: https://iextrading.com
   baseURL: https://api.iextrading.com//1.0
   tags: Market Data
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stock-symbol-earnings-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stock-symbol-financials-get.md
 x-common:
 - type: x-authentication
   url: https://iextrading.com/developer/docs/#authentication
