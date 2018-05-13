@@ -31,71 +31,17 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/intrinio/executives-roles-get.md
-- name: Intrinio API Standardized Financials
-  description: Returns professional-grade historical financial data.  This data is
-    standardized, cleansed and verified to ensure the highest quality data sourced
-    directly from the XBRL financial statements.  The primary purpose of standardized
-    financials are to facilitate comparability across a single company&rsquo;s fundamentals
-    and across all companies fundamentals.
+- name: Intrinio API Bloggers
+  description: Returns a list of bloggers. TipRanks bloggers are anonymized, but you
+    will be able to reference them with the provided id field.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/IntrinioLogo-Green-optimized.png
   humanURL: https://intrinio.com
   baseURL: https://api.intrinio.com//
   tags: Market Data
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/intrinio/financials-standardized-get.md
-- name: Intrinio API Sector News Sentiments
-  description: Returns daily summaries of news sentiments by sector and date.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/IntrinioLogo-Green-optimized.png
-  humanURL: https://intrinio.com
-  baseURL: https://api.intrinio.com//
-  tags: Market Data
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/intrinio/news-sector-sentiments-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/intrinio/bloggers-get.md
 x-common:
-- type: x-applications-showcase
-  url: https://intrinio.com/marketplace/apps
-- type: x-authentication
-  url: http://docs.intrinio.com/#authentication
-- type: x-blog
-  url: http://blog.intrinio.com/
-- type: x-blog-rss
-  url: http://blog.intrinio.com/feed/
-- type: x-code
-  url: http://docs.intrinio.com/#sdks
-- type: x-crunchbase
-  url: https://crunchbase.com/organization/tribunat
-- type: x-developer
-  url: https://intrinio.com/we-love-developers
-- type: x-documentation
-  url: https://intrinio.com/marketplace/data
-- type: x-email
-  url: cfarley@intrinio.com
-- type: x-email
-  url: admin@intrinio.com
-- type: x-email
-  url: support@intrinio.com
-- type: x-login
-  url: https://intrinio.com/login
-- type: x-partners
-  url: https://intrinio.com/partners
-- type: x-press
-  url: https://intrinio.com/press
-- type: x-rate-limits
-  url: http://docs.intrinio.com/#limits
-- type: x-selfservice-registration
-  url: https://intrinio.com/signup
-- type: x-spreadsheets
-  url: http://docs.intrinio.com/#spreadsheet-add-ins
-- type: x-support
-  url: https://intrinio.com/help
-- type: x-tutorial
-  url: https://intrinio.com/tutorial/web_api
-- type: x-twitter
-  url: https://twitter.com/intrinio
-- type: x-website
-  url: https://intrinio.com
 - type: x-applications-showcase
   url: https://intrinio.com/marketplace/apps
 - type: x-authentication
