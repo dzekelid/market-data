@@ -1,8 +1,8 @@
 ---
 swagger: "2.0"
 info:
-  title: Quandl
-  description: The Quandl API
+  title: Quandl API Get Database
+  description: This call returns descriptive metadata for the specified database.
   version: 1.0.0
 host: www.quandl.com
 basePath: /api/v3
