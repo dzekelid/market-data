@@ -23,16 +23,16 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/market-get.md
-- name: IEX Trading API Auction
-  description: For an example of an app that&rsquo;s using stats, see our IEX mobile
-    app.
+- name: IEX Trading API Recent
+  description: This call will return a minimum of the last five trading days up to
+    all trading days of the current month.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/IEX-Logo.png
   humanURL: https://iextrading.com
   baseURL: https://api.iextrading.com//1.0
   tags: Market Data
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/deep-auction-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stats-recent-get.md
 x-common:
 - type: x-authentication
   url: https://iextrading.com/developer/docs/#authentication
