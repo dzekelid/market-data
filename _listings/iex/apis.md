@@ -23,16 +23,15 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/market-get.md
-- name: IEX Trading API Previous
-  description: This returns previous day adjusted price data for a single stock, or
-    an object keyed by symbol of price data for the whole market.
+- name: IEX Trading API Quote
+  description: Pulls a stock quote using any ticker symbol.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/IEX-Logo.png
   humanURL: https://iextrading.com
   baseURL: https://api.iextrading.com//1.0
   tags: Market Data
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stock-symbol-previous-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stock-symbol-quote-get.md
 x-common:
 - type: x-authentication
   url: https://iextrading.com/developer/docs/#authentication
