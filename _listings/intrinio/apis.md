@@ -44,16 +44,20 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/intrinio/financials-standardized-get.md
-- name: Intrinio API Bank XBRL Tags and Labels
-  description: Returns the Bank XBRL tags and labels for a given ticker/RSSD ID, statement,
-    and date or fiscal year/fiscal quarter.
+- name: Intrinio API Stock Exchange Corporate Actions
+  description: 'Returns all corporate actions for all securities listed on a specified
+    stock exchange.  A subscription to the EDI Corporate Actions Data Feed for a specific
+    country will permit access to all stock exchanges in that country (ie, US includes
+    NASDAQ, NYSE, BATS). Events 45+ types of corporate actions such as: Announcements
+    and Annual Shareholder Meetings, Ex-date, Dividend pay date, Splits, Buy Backs,
+    M&amp;A and Takeovers, Bankruptcies and much more'
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/IntrinioLogo-Green-optimized.png
   humanURL: https://intrinio.com
   baseURL: https://api.intrinio.com//
   tags: Market Data
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/intrinio/tags-banks-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/intrinio/stock-exchanges-corporate-actions-get.md
 x-common:
 - type: x-applications-showcase
   url: https://intrinio.com/marketplace/apps
