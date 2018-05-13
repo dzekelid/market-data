@@ -1,11 +1,11 @@
 ---
 swagger: "2.0"
 info:
-  title: Alpha Vantage
-  description: 'Alpha Vantage APIs are grouped into four categories: (1) Stock Time
-    Series Data, (2) Physical and Digital/Crypto Currencies (e.g., Bitcoin), (3) Stock
-    Technical Indicators, and (4) Sector Performances. All APIs are realtime: the
-    latest data points are derived from the current trading day. '
+  title: Alpha Vantage Digital Currencies Intraday
+  description: This API returns the realtime intraday time series (in 5-minute intervals)
+    for any digital currency (e.g., BTC) traded on a specific market (e.g., CNY/Chinese
+    Yuan). Prices and volumes are quoted in both the market-specific currency and
+    USD.
   version: 1.0.0
 host: www.alphavantage.co
 basePath: /
