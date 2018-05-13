@@ -36,15 +36,17 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/quandl/datasets-database-code-dataset-code-metadata-get.md
-- name: Quandl API Get Database
-  description: This call returns descriptive metadata for the specified database.
+- name: Quandl API Download Codes
+  description: You can download a list of all dataset codes in a database in a single
+    call, by appending /codes to your database request. The call will return a ZIP
+    file containing a CSV.
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11440-quandl.jpg
   humanURL: https://www.quandl.com
   baseURL: https://www.quandl.com//api/v3
   tags: Market Data
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/quandl/databases-database-code-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/quandl/databases-database-code-codes-get.md
 x-common:
 - type: x-authentication
   url: https://docs.quandl.com/docs#section-authentication
