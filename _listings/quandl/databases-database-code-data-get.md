@@ -1,8 +1,11 @@
 ---
 swagger: "2.0"
 info:
-  title: Quandl
-  description: The Quandl API
+  title: Quandl API Get Data
+  description: "You can download all the data in a premium database in a single call,
+    by appending /data to your database request. You can specify whether you want
+    the entire history, or merely the last day\u2019s worth of updates, by setting
+    the correct query parameters."
   version: 1.0.0
 host: www.quandl.com
 basePath: /api/v3
