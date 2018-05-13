@@ -30,8 +30,8 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/alpha-vantage/query-function-sector-get.md
-- name: Alpha Vantage Relative Strength Index (RSI)
-  description: This API returns the relative strength index (RSI) values.
+- name: Alpha Vantage Average Directional Movement Index (ADX)
+  description: This API returns the average directional movement index (ADX) values.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
     Shot 2018-01-22 at 4.52.35 PM.png
   humanURL: https://www.alphavantage.co
@@ -39,7 +39,7 @@ apis:
   tags: Market Data
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/alpha-vantage/query-function-rsi-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/alpha-vantage/query-function-adx-get.md
 x-common:
 - type: x-command-line-interface
   url: https://www.npmjs.com/package/alpha-vantage-cli
