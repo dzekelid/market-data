@@ -44,18 +44,17 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/intrinio/financials-standardized-get.md
-- name: Intrinio API Insider Transactions By Owner
-  description: Returns a list of all insider transactions by an owner in as many companies
-    as the owner may be considered an insider.  Criteria for being an insider include
-    being a director, officer, or 10%+ owner in the company.  Transactions are detailed
-    for both non-derivative and derivative transactions by the insider.
+- name: Intrinio API Owners
+  description: Returns owners list and information for all institutional owners of
+    securities covered by Intrinio.  Includes detailed info for a single owner and
+    the ability to query by name.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/IntrinioLogo-Green-optimized.png
   humanURL: https://intrinio.com
   baseURL: https://api.intrinio.com//
   tags: Market Data
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/intrinio/owners-insider-transactions-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/intrinio/owners-get.md
 x-common:
 - type: x-applications-showcase
   url: https://intrinio.com/marketplace/apps
