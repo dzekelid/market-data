@@ -44,15 +44,17 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/intrinio/financials-standardized-get.md
-- name: Intrinio API Institutional Owners by Security
-  description: https://api.intrinio.com/securities/institutional_ownership?identifier={symbol}
+- name: Intrinio API Data Point
+  description: Returns the most recent median data point for an Economic index for
+    a selected tag.  The complete list of Economic Indices can be found here.  The
+    complete list of Economic tags available through this function are available here.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/IntrinioLogo-Green-optimized.png
   humanURL: https://intrinio.com
   baseURL: https://api.intrinio.com//
   tags: Market Data
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/intrinio/securities-institutional-ownership-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/intrinio/data-point-get.md
 x-common:
 - type: x-applications-showcase
   url: https://intrinio.com/marketplace/apps
