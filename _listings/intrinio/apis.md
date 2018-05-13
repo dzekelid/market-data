@@ -31,20 +31,18 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/intrinio/executives-roles-get.md
-- name: Intrinio API Historical Data
-  description: Returns the historical data for for a selected identifier (ticker symbol
-    or index symbol) for a selected tag.  The complete list of tags available through
-    this function are available here.  Income statement, cash flow statement, and
-    ratios are returned as trailing twelve months values by default, but can be changed
-    with the type parameter.  All other historical data points are returned as their
-    value on a certain day based on filings reported as of that date.
+- name: Intrinio API Exchange Prices
+  description: Returns professional-grade historical stock prices for all securities
+    traded on a stock exchange for a single specified day.  Historical prices are
+    available back to 1996 or the IPO date, with some companies with data back to
+    the 1970s.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/IntrinioLogo-Green-optimized.png
   humanURL: https://intrinio.com
   baseURL: https://api.intrinio.com//
   tags: Market Data
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/intrinio/historical-data-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/intrinio/prices-exchange-get.md
 x-common:
 - type: x-applications-showcase
   url: https://intrinio.com/marketplace/apps
