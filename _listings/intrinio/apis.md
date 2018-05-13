@@ -44,15 +44,15 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/intrinio/financials-standardized-get.md
-- name: Intrinio API Historical Prices
-  description: Returns the historical prices for the given option contract.
+- name: Intrinio API Sector News Sentiments
+  description: Returns daily summaries of news sentiments by sector and date.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/IntrinioLogo-Green-optimized.png
   humanURL: https://intrinio.com
   baseURL: https://api.intrinio.com//
   tags: Market Data
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/intrinio/options-historical-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/intrinio/news-sector-sentiments-get.md
 x-common:
 - type: x-applications-showcase
   url: https://intrinio.com/marketplace/apps
