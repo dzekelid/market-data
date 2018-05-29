@@ -19,6 +19,52 @@ include:
   url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/intrinio/apis.yaml
 - name: Quandl
   url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/quandl/apis.yaml
+- name: Xignite
+  url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/apis.yaml
+- name: Xignite
+  url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/apis.yaml
+- name: Xignite
+  url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/apis.yaml
+- name: Xignite
+  url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/apis.yaml
+- name: Xignite
+  url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/apis.yaml
+- name: Xignite
+  url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/apis.yaml
+- name: Xignite
+  url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/apis.yaml
+- name: Xignite
+  url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/apis.yaml
+- name: Xignite
+  url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/apis.yaml
+- name: Xignite
+  url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/apis.yaml
+- name: Xignite
+  url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/apis.yaml
+- name: Xignite
+  url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/apis.yaml
+- name: Xignite
+  url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/apis.yaml
+- name: Xignite
+  url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/apis.yaml
+- name: Xignite
+  url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/apis.yaml
+- name: Xignite
+  url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/apis.yaml
+- name: Xignite
+  url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/apis.yaml
+- name: Xignite
+  url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/apis.yaml
+- name: Xignite
+  url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/apis.yaml
+- name: Xignite
+  url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/apis.yaml
+- name: Xignite
+  url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/apis.yaml
+- name: Xignite
+  url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/apis.yaml
+- name: Xignite
+  url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/apis.yaml
 maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
