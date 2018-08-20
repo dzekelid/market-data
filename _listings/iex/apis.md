@@ -7,237 +7,900 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28093-iex.
 x-kinRank: "9"
 x-alexaRank: "166667"
 tags: Market Data
-created: "2018-06-25"
-modified: "2018-06-25"
+created: "2018-08-19"
+modified: "2018-08-19"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/apis.md
 specificationVersion: "0.14"
 apis:
-- name: IEX Trading API Batch Requests
-  x-api-slug: iex-trading-api
-  description: Returns batch stock quotes.
+- name: IEX Auction (stream)
+  x-api-slug: iex-auction-stream
+  description: IEX, the Investors Exchange, is a fair, simple and transparent stock
+    exchange dedicated to investor and issuer protection.
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28093-iex.jpg
   humanURL: https://iextrading.com
-  baseURL: https://api.iextrading.com//1.0//stock/market/batch
-  tags: Market Data,Quotes,Batch
+  baseURL: https:///
+  tags: Market Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/openapi.md
+- name: IEX Batch Requests (stream)
+  x-api-slug: iex-batch-requests-stream
+  description: IEX, the Investors Exchange, is a fair, simple and transparent stock
+    exchange dedicated to investor and issuer protection.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28093-iex.jpg
+  humanURL: https://iextrading.com
+  baseURL: https:///
+  tags: Market Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/openapi.md
+- name: IEX Book (stream)
+  x-api-slug: iex-book-stream
+  description: IEX, the Investors Exchange, is a fair, simple and transparent stock
+    exchange dedicated to investor and issuer protection.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28093-iex.jpg
+  humanURL: https://iextrading.com
+  baseURL: https:///
+  tags: Market Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/openapi.md
+- name: IEX Corporate Actions (stream)
+  x-api-slug: iex-corporate-actions-stream
+  description: IEX, the Investors Exchange, is a fair, simple and transparent stock
+    exchange dedicated to investor and issuer protection.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28093-iex.jpg
+  humanURL: https://iextrading.com
+  baseURL: https:///
+  tags: Market Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/openapi.md
+- name: IEX Delayed Quote (stream)
+  x-api-slug: iex-delayed-quote-stream
+  description: IEX, the Investors Exchange, is a fair, simple and transparent stock
+    exchange dedicated to investor and issuer protection.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28093-iex.jpg
+  humanURL: https://iextrading.com
+  baseURL: https:///
+  tags: Market Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/openapi.md
+- name: IEX HIST (stream)
+  x-api-slug: iex-hist-stream
+  description: IEX, the Investors Exchange, is a fair, simple and transparent stock
+    exchange dedicated to investor and issuer protection.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28093-iex.jpg
+  humanURL: https://iextrading.com
+  baseURL: https:///
+  tags: Market Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/openapi.md
+- name: IEX Historical Summary (stream)
+  x-api-slug: iex-historical-summary-stream
+  description: IEX, the Investors Exchange, is a fair, simple and transparent stock
+    exchange dedicated to investor and issuer protection.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28093-iex.jpg
+  humanURL: https://iextrading.com
+  baseURL: https:///
+  tags: Market Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/openapi.md
+- name: IEX Market (stream)
+  x-api-slug: iex-market-stream
+  description: IEX, the Investors Exchange, is a fair, simple and transparent stock
+    exchange dedicated to investor and issuer protection.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28093-iex.jpg
+  humanURL: https://iextrading.com
+  baseURL: https:///
+  tags: Market Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/openapi.md
+- name: IEX News (stream)
+  x-api-slug: iex-news-stream
+  description: IEX, the Investors Exchange, is a fair, simple and transparent stock
+    exchange dedicated to investor and issuer protection.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28093-iex.jpg
+  humanURL: https://iextrading.com
+  baseURL: https:///
+  tags: Market Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/openapi.md
+- name: IEX Operational Halt Status (stream)
+  x-api-slug: iex-operational-halt-status-stream
+  description: IEX, the Investors Exchange, is a fair, simple and transparent stock
+    exchange dedicated to investor and issuer protection.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28093-iex.jpg
+  humanURL: https://iextrading.com
+  baseURL: https:///
+  tags: Market Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/openapi.md
+- name: IEX Previous (stream)
+  x-api-slug: iex-previous-stream
+  description: IEX, the Investors Exchange, is a fair, simple and transparent stock
+    exchange dedicated to investor and issuer protection.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28093-iex.jpg
+  humanURL: https://iextrading.com
+  baseURL: https:///
+  tags: Market Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/openapi.md
+- name: IEX Quote (stream)
+  x-api-slug: iex-quote-stream
+  description: IEX, the Investors Exchange, is a fair, simple and transparent stock
+    exchange dedicated to investor and issuer protection.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28093-iex.jpg
+  humanURL: https://iextrading.com
+  baseURL: https:///
+  tags: Market Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/openapi.md
+- name: IEX Recent (stream)
+  x-api-slug: iex-recent-stream
+  description: IEX, the Investors Exchange, is a fair, simple and transparent stock
+    exchange dedicated to investor and issuer protection.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28093-iex.jpg
+  humanURL: https://iextrading.com
+  baseURL: https:///
+  tags: Market Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/openapi.md
+- name: IEX Security Event (stream)
+  x-api-slug: iex-security-event-stream
+  description: IEX, the Investors Exchange, is a fair, simple and transparent stock
+    exchange dedicated to investor and issuer protection.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28093-iex.jpg
+  humanURL: https://iextrading.com
+  baseURL: https:///
+  tags: Market Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/openapi.md
+- name: IEX Short Interest List (stream)
+  x-api-slug: iex-short-interest-list-stream
+  description: IEX, the Investors Exchange, is a fair, simple and transparent stock
+    exchange dedicated to investor and issuer protection.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28093-iex.jpg
+  humanURL: https://iextrading.com
+  baseURL: https:///
+  tags: Market Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/openapi.md
+- name: IEX Splits (stream)
+  x-api-slug: iex-splits-stream
+  description: IEX, the Investors Exchange, is a fair, simple and transparent stock
+    exchange dedicated to investor and issuer protection.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28093-iex.jpg
+  humanURL: https://iextrading.com
+  baseURL: https:///
+  tags: Market Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/openapi.md
+- name: IEX TOPS (stream)
+  x-api-slug: iex-tops-stream
+  description: IEX, the Investors Exchange, is a fair, simple and transparent stock
+    exchange dedicated to investor and issuer protection.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28093-iex.jpg
+  humanURL: https://iextrading.com
+  baseURL: https:///
+  tags: Market Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/openapi.md
+- name: IEX Trading API
+  x-api-slug: iex-trading-api
+  description: the-iex-api-is-a-set-of-services-designed-for-developers-and-engineers--it-can-be-used-to-build-highquality-apps-and-services--were-always-working-to-improve-the-iex-api--please-check-back-for-enhancements-and-improvements-
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28093-iex.jpg
+  humanURL: https://iextrading.com
+  baseURL: https://api.iextrading.com//1.0
+  tags: Marketplace, Market Data, Data Provider, API Provider, Financial Services,
+    Profiles, General Data API, Service API, Relative Data API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stockmarketbatch-get-openapi.md
-- name: IEX Trading API Delayed Quote
+- name: IEX Trading API
   x-api-slug: iex-trading-api
-  description: This returns the 15 minute delayed market quote.
+  description: the-iex-api-is-a-set-of-services-designed-for-developers-and-engineers--it-can-be-used-to-build-highquality-apps-and-services--were-always-working-to-improve-the-iex-api--please-check-back-for-enhancements-and-improvements-
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28093-iex.jpg
   humanURL: https://iextrading.com
-  baseURL: https://api.iextrading.com//1.0//stock/{symbol}/delayed-quote
-  tags: Market Data,Quotes
+  baseURL: https://api.iextrading.com//1.0
+  tags: Marketplace, Market Data, Data Provider, API Provider, Financial Services,
+    Profiles, General Data API, Service API, Relative Data API, Pedestal
   properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stockmarketbatch-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymboldelayedquote-get-openapi.md
-- name: IEX Trading API Earnings
+- name: IEX Trading API
   x-api-slug: iex-trading-api
-  description: Pulls data from the four most recent reported quarters.
+  description: the-iex-api-is-a-set-of-services-designed-for-developers-and-engineers--it-can-be-used-to-build-highquality-apps-and-services--were-always-working-to-improve-the-iex-api--please-check-back-for-enhancements-and-improvements-
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28093-iex.jpg
   humanURL: https://iextrading.com
-  baseURL: https://api.iextrading.com//1.0//stock/{symbol}/earnings
-  tags: Market Data,Earnings
+  baseURL: https://api.iextrading.com//1.0
+  tags: Marketplace, Market Data, Data Provider, API Provider, Financial Services,
+    Profiles, General Data API, Service API, Relative Data API, Pedestal
   properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stockmarketbatch-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymboldelayedquote-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolearnings-get-openapi.md
-- name: IEX Trading API Financials
+- name: IEX Trading API
   x-api-slug: iex-trading-api
-  description: Pulls income statement, balance sheet, and cash flow data from the
-    four most recent reported quarters.
+  description: the-iex-api-is-a-set-of-services-designed-for-developers-and-engineers--it-can-be-used-to-build-highquality-apps-and-services--were-always-working-to-improve-the-iex-api--please-check-back-for-enhancements-and-improvements-
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28093-iex.jpg
   humanURL: https://iextrading.com
-  baseURL: https://api.iextrading.com//1.0//stock/{symbol}/financials
-  tags: Market Data,Financials
+  baseURL: https://api.iextrading.com//1.0
+  tags: Marketplace, Market Data, Data Provider, API Provider, Financial Services,
+    Profiles, General Data API, Service API, Relative Data API, Pedestal
   properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stockmarketbatch-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymboldelayedquote-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolearnings-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolfinancials-get-openapi.md
-- name: IEX Trading API Short Interest List
+- name: IEX Trading API
   x-api-slug: iex-trading-api
-  description: Refer to the Short Interest specification for further details
+  description: the-iex-api-is-a-set-of-services-designed-for-developers-and-engineers--it-can-be-used-to-build-highquality-apps-and-services--were-always-working-to-improve-the-iex-api--please-check-back-for-enhancements-and-improvements-
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28093-iex.jpg
   humanURL: https://iextrading.com
-  baseURL: https://api.iextrading.com//1.0//stock/{symbol}/short-interest
-  tags: Market Data,Short Interest
+  baseURL: https://api.iextrading.com//1.0
+  tags: Marketplace, Market Data, Data Provider, API Provider, Financial Services,
+    Profiles, General Data API, Service API, Relative Data API, Pedestal
   properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stockmarketbatch-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymboldelayedquote-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolearnings-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolfinancials-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolshortinterest-get-openapi.md
-- name: IEX Trading API List
+- name: IEX Trading API
   x-api-slug: iex-trading-api
-  description: Refer to the quote section.
+  description: the-iex-api-is-a-set-of-services-designed-for-developers-and-engineers--it-can-be-used-to-build-highquality-apps-and-services--were-always-working-to-improve-the-iex-api--please-check-back-for-enhancements-and-improvements-
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28093-iex.jpg
   humanURL: https://iextrading.com
-  baseURL: https://api.iextrading.com//1.0//stock/{symbol}/list
-  tags: Market Data,Quotes
+  baseURL: https://api.iextrading.com//1.0
+  tags: Marketplace, Market Data, Data Provider, API Provider, Financial Services,
+    Profiles, General Data API, Service API, Relative Data API, Pedestal
   properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stockmarketbatch-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymboldelayedquote-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolearnings-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolfinancials-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolshortinterest-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbollist-get-openapi.md
-- name: IEX Trading API News
+- name: IEX Trading API
   x-api-slug: iex-trading-api
-  description: The above example will return JSON with the following keys
+  description: the-iex-api-is-a-set-of-services-designed-for-developers-and-engineers--it-can-be-used-to-build-highquality-apps-and-services--were-always-working-to-improve-the-iex-api--please-check-back-for-enhancements-and-improvements-
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28093-iex.jpg
   humanURL: https://iextrading.com
-  baseURL: https://api.iextrading.com//1.0//stock/{symbol}/news/last/{range}
-  tags: Market Data,Financial News
+  baseURL: https://api.iextrading.com//1.0
+  tags: Marketplace, Market Data, Data Provider, API Provider, Financial Services,
+    Profiles, General Data API, Service API, Relative Data API, Pedestal
   properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stockmarketbatch-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymboldelayedquote-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolearnings-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolfinancials-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolshortinterest-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbollist-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolnewslastrange-get-openapi.md
-- name: IEX Trading API Previous
+- name: IEX Trading API
   x-api-slug: iex-trading-api
-  description: This returns previous day adjusted price data for a single stock, or
-    an object keyed by symbol of price data for the whole market.
+  description: the-iex-api-is-a-set-of-services-designed-for-developers-and-engineers--it-can-be-used-to-build-highquality-apps-and-services--were-always-working-to-improve-the-iex-api--please-check-back-for-enhancements-and-improvements-
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28093-iex.jpg
   humanURL: https://iextrading.com
-  baseURL: https://api.iextrading.com//1.0//stock/{symbol}/previous
-  tags: Market Data,Quotes,Adjustments
+  baseURL: https://api.iextrading.com//1.0
+  tags: Marketplace, Market Data, Data Provider, API Provider, Financial Services,
+    Profiles, General Data API, Service API, Relative Data API, Pedestal
   properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stockmarketbatch-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymboldelayedquote-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolearnings-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolfinancials-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolshortinterest-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbollist-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolnewslastrange-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolprevious-get-openapi.md
-- name: IEX Trading API Quote
+- name: IEX Trading API
   x-api-slug: iex-trading-api
-  description: Pulls a stock quote using any ticker symbol.
+  description: the-iex-api-is-a-set-of-services-designed-for-developers-and-engineers--it-can-be-used-to-build-highquality-apps-and-services--were-always-working-to-improve-the-iex-api--please-check-back-for-enhancements-and-improvements-
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28093-iex.jpg
   humanURL: https://iextrading.com
-  baseURL: https://api.iextrading.com//1.0//stock/{symbol}/quote
-  tags: Market Data,Quotes
+  baseURL: https://api.iextrading.com//1.0
+  tags: Marketplace, Market Data, Data Provider, API Provider, Financial Services,
+    Profiles, General Data API, Service API, Relative Data API, Pedestal
   properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stockmarketbatch-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymboldelayedquote-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolearnings-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolfinancials-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolshortinterest-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbollist-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolnewslastrange-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolprevious-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolquote-get-openapi.md
-- name: IEX Trading API Splits
+- name: IEX Trading API
   x-api-slug: iex-trading-api
-  description: Returns stock splits for any date range using ticker symbol.
+  description: the-iex-api-is-a-set-of-services-designed-for-developers-and-engineers--it-can-be-used-to-build-highquality-apps-and-services--were-always-working-to-improve-the-iex-api--please-check-back-for-enhancements-and-improvements-
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28093-iex.jpg
   humanURL: https://iextrading.com
-  baseURL: https://api.iextrading.com//1.0//stock/{symbol}/splits/{range}
-  tags: Market Data,Quotes,Splits
+  baseURL: https://api.iextrading.com//1.0
+  tags: Marketplace, Market Data, Data Provider, API Provider, Financial Services,
+    Profiles, General Data API, Service API, Relative Data API, Pedestal
   properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stockmarketbatch-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymboldelayedquote-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolearnings-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolfinancials-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolshortinterest-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbollist-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolnewslastrange-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolprevious-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolquote-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolsplitsrange-get-openapi.md
-- name: IEX Trading API Corporate Actions
+- name: IEX Trading API
   x-api-slug: iex-trading-api
-  description: Refer to the Daily list specification for futher details.
+  description: the-iex-api-is-a-set-of-services-designed-for-developers-and-engineers--it-can-be-used-to-build-highquality-apps-and-services--were-always-working-to-improve-the-iex-api--please-check-back-for-enhancements-and-improvements-
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28093-iex.jpg
   humanURL: https://iextrading.com
-  baseURL: https://api.iextrading.com//1.0//ref-data/daily-list/symbol-directory
-  tags: Market Data,Daily List
+  baseURL: https://api.iextrading.com//1.0
+  tags: Marketplace, Market Data, Data Provider, API Provider, Financial Services,
+    Profiles, General Data API, Service API, Relative Data API, Pedestal
   properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stockmarketbatch-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymboldelayedquote-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolearnings-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolfinancials-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolshortinterest-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbollist-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolnewslastrange-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolprevious-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolquote-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolsplitsrange-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/refdatadailylistsymboldirectory-get-openapi.md
-- name: IEX Trading API Next Day Ex Date
+- name: IEX Trading API
   x-api-slug: iex-trading-api
-  description: Refer to the Daily list specification for futher details.
+  description: the-iex-api-is-a-set-of-services-designed-for-developers-and-engineers--it-can-be-used-to-build-highquality-apps-and-services--were-always-working-to-improve-the-iex-api--please-check-back-for-enhancements-and-improvements-
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28093-iex.jpg
   humanURL: https://iextrading.com
-  baseURL: https://api.iextrading.com//1.0//ref-data/daily-list/next-day-ex-date
-  tags: Market Data,Daily List
+  baseURL: https://api.iextrading.com//1.0
+  tags: Marketplace, Market Data, Data Provider, API Provider, Financial Services,
+    Profiles, General Data API, Service API, Relative Data API, Pedestal
   properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stockmarketbatch-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymboldelayedquote-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolearnings-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolfinancials-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolshortinterest-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbollist-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolnewslastrange-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolprevious-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolquote-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolsplitsrange-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/refdatadailylistsymboldirectory-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/refdatadailylistnextdayexdate-get-openapi.md
-- name: IEX Trading API TOPS
+- name: IEX Trading API
   x-api-slug: iex-trading-api
-  description: Our eligible symbol reference is updated daily. Use these symbols as
-    values in your symbols parameter.
+  description: the-iex-api-is-a-set-of-services-designed-for-developers-and-engineers--it-can-be-used-to-build-highquality-apps-and-services--were-always-working-to-improve-the-iex-api--please-check-back-for-enhancements-and-improvements-
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28093-iex.jpg
   humanURL: https://iextrading.com
-  baseURL: https://api.iextrading.com//1.0//tops
-  tags: Market Data,Tops
+  baseURL: https://api.iextrading.com//1.0
+  tags: Marketplace, Market Data, Data Provider, API Provider, Financial Services,
+    Profiles, General Data API, Service API, Relative Data API, Pedestal
   properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stockmarketbatch-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymboldelayedquote-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolearnings-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolfinancials-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolshortinterest-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbollist-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolnewslastrange-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolprevious-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolquote-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolsplitsrange-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/refdatadailylistsymboldirectory-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/refdatadailylistnextdayexdate-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/tops-get-openapi.md
-- name: IEX Trading API HIST
+- name: IEX Trading API
   x-api-slug: iex-trading-api
-  description: HIST will provide the output of IEX data products for download on a
-    T+1 basis. Data will remain available for the trailing twelve months.
+  description: the-iex-api-is-a-set-of-services-designed-for-developers-and-engineers--it-can-be-used-to-build-highquality-apps-and-services--were-always-working-to-improve-the-iex-api--please-check-back-for-enhancements-and-improvements-
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28093-iex.jpg
   humanURL: https://iextrading.com
-  baseURL: https://api.iextrading.com//1.0//hist
-  tags: Market Data,Historical
+  baseURL: https://api.iextrading.com//1.0
+  tags: Marketplace, Market Data, Data Provider, API Provider, Financial Services,
+    Profiles, General Data API, Service API, Relative Data API, Pedestal
   properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stockmarketbatch-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymboldelayedquote-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolearnings-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolfinancials-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolshortinterest-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbollist-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolnewslastrange-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolprevious-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolquote-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolsplitsrange-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/refdatadailylistsymboldirectory-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/refdatadailylistnextdayexdate-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/tops-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/hist-get-openapi.md
-- name: IEX Trading API Book
+- name: IEX Trading API
   x-api-slug: iex-trading-api
-  description: Subscribe to the book channel.
+  description: the-iex-api-is-a-set-of-services-designed-for-developers-and-engineers--it-can-be-used-to-build-highquality-apps-and-services--were-always-working-to-improve-the-iex-api--please-check-back-for-enhancements-and-improvements-
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28093-iex.jpg
   humanURL: https://iextrading.com
-  baseURL: https://api.iextrading.com//1.0//deep/book
-  tags: Market Data,Book
+  baseURL: https://api.iextrading.com//1.0
+  tags: Marketplace, Market Data, Data Provider, API Provider, Financial Services,
+    Profiles, General Data API, Service API, Relative Data API, Pedestal
   properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stockmarketbatch-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymboldelayedquote-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolearnings-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolfinancials-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolshortinterest-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbollist-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolnewslastrange-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolprevious-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolquote-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolsplitsrange-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/refdatadailylistsymboldirectory-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/refdatadailylistnextdayexdate-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/tops-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/hist-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/deepbook-get-openapi.md
-- name: IEX Trading API System Event
+- name: IEX Trading API
   x-api-slug: iex-trading-api
-  description: Subscribe to the systemevent channel.
+  description: the-iex-api-is-a-set-of-services-designed-for-developers-and-engineers--it-can-be-used-to-build-highquality-apps-and-services--were-always-working-to-improve-the-iex-api--please-check-back-for-enhancements-and-improvements-
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28093-iex.jpg
   humanURL: https://iextrading.com
-  baseURL: https://api.iextrading.com//1.0//deep/system-event
-  tags: Market Data,System Event
+  baseURL: https://api.iextrading.com//1.0
+  tags: Marketplace, Market Data, Data Provider, API Provider, Financial Services,
+    Profiles, General Data API, Service API, Relative Data API, Pedestal
   properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stockmarketbatch-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymboldelayedquote-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolearnings-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolfinancials-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolshortinterest-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbollist-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolnewslastrange-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolprevious-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolquote-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolsplitsrange-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/refdatadailylistsymboldirectory-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/refdatadailylistnextdayexdate-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/tops-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/hist-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/deepbook-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/deepsystemevent-get-openapi.md
-- name: IEX Trading API Operational Halt Status
+- name: IEX Trading API
   x-api-slug: iex-trading-api
-  description: Subscribe to the ophaltstatus channel.
+  description: the-iex-api-is-a-set-of-services-designed-for-developers-and-engineers--it-can-be-used-to-build-highquality-apps-and-services--were-always-working-to-improve-the-iex-api--please-check-back-for-enhancements-and-improvements-
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28093-iex.jpg
   humanURL: https://iextrading.com
-  baseURL: https://api.iextrading.com//1.0//deep/op-halt-status
-  tags: Market Data,Halt Status
+  baseURL: https://api.iextrading.com//1.0
+  tags: Marketplace, Market Data, Data Provider, API Provider, Financial Services,
+    Profiles, General Data API, Service API, Relative Data API, Pedestal
   properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stockmarketbatch-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymboldelayedquote-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolearnings-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolfinancials-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolshortinterest-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbollist-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolnewslastrange-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolprevious-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolquote-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolsplitsrange-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/refdatadailylistsymboldirectory-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/refdatadailylistnextdayexdate-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/tops-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/hist-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/deepbook-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/deepsystemevent-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/deepophaltstatus-get-openapi.md
-- name: IEX Trading API Security Event
+- name: IEX Trading API
   x-api-slug: iex-trading-api
-  description: Subscribe to the securityevent channel.
+  description: the-iex-api-is-a-set-of-services-designed-for-developers-and-engineers--it-can-be-used-to-build-highquality-apps-and-services--were-always-working-to-improve-the-iex-api--please-check-back-for-enhancements-and-improvements-
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28093-iex.jpg
   humanURL: https://iextrading.com
-  baseURL: https://api.iextrading.com//1.0//deep/security-event
-  tags: Market Data,Security Event
+  baseURL: https://api.iextrading.com//1.0
+  tags: Marketplace, Market Data, Data Provider, API Provider, Financial Services,
+    Profiles, General Data API, Service API, Relative Data API, Pedestal
   properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stockmarketbatch-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymboldelayedquote-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolearnings-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolfinancials-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolshortinterest-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbollist-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolnewslastrange-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolprevious-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolquote-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolsplitsrange-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/refdatadailylistsymboldirectory-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/refdatadailylistnextdayexdate-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/tops-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/hist-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/deepbook-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/deepsystemevent-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/deepophaltstatus-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/deepsecurityevent-get-openapi.md
-- name: IEX Trading API Auction
+- name: IEX Trading API
   x-api-slug: iex-trading-api
-  description: For an example of an app that&rsquo;s using stats, see our IEX mobile
-    app.
+  description: the-iex-api-is-a-set-of-services-designed-for-developers-and-engineers--it-can-be-used-to-build-highquality-apps-and-services--were-always-working-to-improve-the-iex-api--please-check-back-for-enhancements-and-improvements-
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28093-iex.jpg
   humanURL: https://iextrading.com
-  baseURL: https://api.iextrading.com//1.0//deep/auction
-  tags: Market Data,Auctions
+  baseURL: https://api.iextrading.com//1.0
+  tags: Marketplace, Market Data, Data Provider, API Provider, Financial Services,
+    Profiles, General Data API, Service API, Relative Data API, Pedestal
   properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stockmarketbatch-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymboldelayedquote-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolearnings-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolfinancials-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolshortinterest-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbollist-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolnewslastrange-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolprevious-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolquote-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolsplitsrange-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/refdatadailylistsymboldirectory-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/refdatadailylistnextdayexdate-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/tops-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/hist-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/deepbook-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/deepsystemevent-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/deepophaltstatus-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/deepsecurityevent-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/deepauction-get-openapi.md
-- name: IEX Trading API Recent
+- name: IEX Trading API
   x-api-slug: iex-trading-api
-  description: This call will return a minimum of the last five trading days up to
-    all trading days of the current month.
+  description: the-iex-api-is-a-set-of-services-designed-for-developers-and-engineers--it-can-be-used-to-build-highquality-apps-and-services--were-always-working-to-improve-the-iex-api--please-check-back-for-enhancements-and-improvements-
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28093-iex.jpg
   humanURL: https://iextrading.com
-  baseURL: https://api.iextrading.com//1.0//stats/recent
-  tags: Market Data,Statistics
+  baseURL: https://api.iextrading.com//1.0
+  tags: Marketplace, Market Data, Data Provider, API Provider, Financial Services,
+    Profiles, General Data API, Service API, Relative Data API, Pedestal
   properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stockmarketbatch-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymboldelayedquote-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolearnings-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolfinancials-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolshortinterest-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbollist-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolnewslastrange-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolprevious-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolquote-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolsplitsrange-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/refdatadailylistsymboldirectory-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/refdatadailylistnextdayexdate-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/tops-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/hist-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/deepbook-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/deepsystemevent-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/deepophaltstatus-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/deepsecurityevent-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/deepauction-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/statsrecent-get-openapi.md
-- name: IEX Trading API Historical Summary
+- name: IEX Trading API
   x-api-slug: iex-trading-api
-  description: See our stats page for a reference of the keys.
+  description: the-iex-api-is-a-set-of-services-designed-for-developers-and-engineers--it-can-be-used-to-build-highquality-apps-and-services--were-always-working-to-improve-the-iex-api--please-check-back-for-enhancements-and-improvements-
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28093-iex.jpg
   humanURL: https://iextrading.com
-  baseURL: https://api.iextrading.com//1.0//stats/historical
-  tags: Market Data,Historical
+  baseURL: https://api.iextrading.com//1.0
+  tags: Marketplace, Market Data, Data Provider, API Provider, Financial Services,
+    Profiles, General Data API, Service API, Relative Data API, Pedestal
   properties:
   - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stockmarketbatch-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymboldelayedquote-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolearnings-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolfinancials-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolshortinterest-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbollist-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolnewslastrange-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolprevious-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolquote-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolsplitsrange-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/refdatadailylistsymboldirectory-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/refdatadailylistnextdayexdate-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/tops-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/hist-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/deepbook-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/deepsystemevent-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/deepophaltstatus-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/deepsecurityevent-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/deepauction-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/statsrecent-get-openapi.md
+  - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/statshistorical-get-openapi.md
-- name: IEX Trading API Market
+- name: IEX Trading API
   x-api-slug: iex-trading-api
-  description: This endpoint returns near real time traded volume on the markets.
-    Market data is captured by the IEX system from approximately 7:45 a.m. to 5:15
-    p.m. ET.
+  description: the-iex-api-is-a-set-of-services-designed-for-developers-and-engineers--it-can-be-used-to-build-highquality-apps-and-services--were-always-working-to-improve-the-iex-api--please-check-back-for-enhancements-and-improvements-
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28093-iex.jpg
   humanURL: https://iextrading.com
-  baseURL: https://api.iextrading.com//1.0//market
-  tags: Market Data,Markets
+  baseURL: https://api.iextrading.com//1.0
+  tags: Marketplace, Market Data, Data Provider, API Provider, Financial Services,
+    Profiles, General Data API, Service API, Relative Data API, Pedestal
   properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stockmarketbatch-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymboldelayedquote-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolearnings-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolfinancials-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolshortinterest-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbollist-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolnewslastrange-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolprevious-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolquote-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stocksymbolsplitsrange-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/refdatadailylistsymboldirectory-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/refdatadailylistnextdayexdate-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/tops-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/hist-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/deepbook-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/deepsystemevent-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/deepophaltstatus-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/deepsecurityevent-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/deepauction-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/statsrecent-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/statshistorical-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/market-get-openapi.md
 - name: IEX Trading API
@@ -252,6 +915,8 @@ apis:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/openapi.md
 x-common:
+- type: x-api-stack
+  url: http://iex.stack.network
 - type: x-authentication
   url: https://iextrading.com/developer/docs/#authentication
 - type: x-blog
