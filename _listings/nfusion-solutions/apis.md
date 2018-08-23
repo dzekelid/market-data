@@ -9,8 +9,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28883-nfus
 x-kinRank: "7"
 x-alexaRank: "4970472"
 tags: Market Data
-created: "2018-08-19"
-modified: "2018-08-19"
+created: "2018-08-23"
+modified: "2018-08-23"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/nfusion-solutions/apis.md
 specificationVersion: "0.14"
 apis:
@@ -36,6 +36,8 @@ x-common:
   url: https://api.nfusionsolutions.biz/swagger/1/swagger.json
 - type: x-website
   url: http://www.nfusionsolutions.com
+- type: x-api-gallery
+  url: http://next.caller.api.gallery.streamdata.io
 - type: x-api-stack
   url: http://nfusion.solutions.stack.network
 - type: x-blog

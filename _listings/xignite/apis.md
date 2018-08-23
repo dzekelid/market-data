@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "9"
 x-alexaRank: "383974"
 tags: Market Data
-created: "2018-08-19"
-modified: "2018-08-19"
+created: "2018-08-23"
+modified: "2018-08-23"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/apis.md
 specificationVersion: "0.14"
 apis:
@@ -22,7 +22,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getbars-get-openapi.md
@@ -36,7 +36,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getbars-get-openapi.md
@@ -52,7 +52,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getbars-get-openapi.md
@@ -70,7 +70,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getbars-get-openapi.md
@@ -90,7 +90,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getbars-get-openapi.md
@@ -112,7 +112,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getbars-get-openapi.md
@@ -136,7 +136,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getbars-get-openapi.md
@@ -162,7 +162,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getbars-get-openapi.md
@@ -201,7 +201,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getpricecomposite-get-openapi.md
@@ -215,7 +215,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getpricecomposite-get-openapi.md
@@ -231,7 +231,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getpricecomposite-get-openapi.md
@@ -249,7 +249,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getpricecomposite-get-openapi.md
@@ -269,7 +269,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getpricecomposite-get-openapi.md
@@ -291,7 +291,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getpricecomposite-get-openapi.md
@@ -315,7 +315,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getpricecomposite-get-openapi.md
@@ -341,7 +341,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getpricecomposite-get-openapi.md
@@ -369,7 +369,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getpricecomposite-get-openapi.md
@@ -399,7 +399,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getpricecomposite-get-openapi.md
@@ -431,7 +431,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getpricecomposite-get-openapi.md
@@ -465,7 +465,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getpricecomposite-get-openapi.md
@@ -501,7 +501,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getpricecomposite-get-openapi.md
@@ -539,7 +539,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getpricecomposite-get-openapi.md
@@ -579,7 +579,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getpricecomposite-get-openapi.md
@@ -621,7 +621,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getpricecomposite-get-openapi.md
@@ -665,7 +665,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getpricecomposite-get-openapi.md
@@ -711,7 +711,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getpricecomposite-get-openapi.md
@@ -770,7 +770,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/geteventsfornextnumberofdays-get-openapi.md
@@ -784,7 +784,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/geteventsfornextnumberofdays-get-openapi.md
@@ -800,7 +800,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/geteventsfornextnumberofdays-get-openapi.md
@@ -818,7 +818,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/geteventsfornextnumberofdays-get-openapi.md
@@ -838,7 +838,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/geteventsfornextnumberofdays-get-openapi.md
@@ -860,7 +860,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/geteventsfornextnumberofdays-get-openapi.md
@@ -884,7 +884,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/geteventsfornextnumberofdays-get-openapi.md
@@ -910,7 +910,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/geteventsfornextnumberofdays-get-openapi.md
@@ -938,7 +938,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/geteventsfornextnumberofdays-get-openapi.md
@@ -968,7 +968,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/geteventsfornextnumberofdays-get-openapi.md
@@ -1000,7 +1000,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/geteventsfornextnumberofdays-get-openapi.md
@@ -1034,7 +1034,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/geteventsfornextnumberofdays-get-openapi.md
@@ -1070,7 +1070,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/geteventsfornextnumberofdays-get-openapi.md
@@ -1108,7 +1108,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/geteventsfornextnumberofdays-get-openapi.md
@@ -1148,7 +1148,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/geteventsfornextnumberofdays-get-openapi.md
@@ -1190,7 +1190,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/geteventsfornextnumberofdays-get-openapi.md
@@ -1234,7 +1234,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/geteventsfornextnumberofdays-get-openapi.md
@@ -1280,7 +1280,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/geteventsfornextnumberofdays-get-openapi.md
@@ -1328,7 +1328,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/geteventsfornextnumberofdays-get-openapi.md
@@ -1378,7 +1378,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/geteventsfornextnumberofdays-get-openapi.md
@@ -1430,7 +1430,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/geteventsfornextnumberofdays-get-openapi.md
@@ -1495,7 +1495,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listcurrencies-get-openapi.md
@@ -1509,7 +1509,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listcurrencies-get-openapi.md
@@ -1525,7 +1525,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listcurrencies-get-openapi.md
@@ -1543,7 +1543,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listcurrencies-get-openapi.md
@@ -1563,7 +1563,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listcurrencies-get-openapi.md
@@ -1585,7 +1585,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listcurrencies-get-openapi.md
@@ -1609,7 +1609,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listcurrencies-get-openapi.md
@@ -1635,7 +1635,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listcurrencies-get-openapi.md
@@ -1663,7 +1663,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listcurrencies-get-openapi.md
@@ -1693,7 +1693,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listcurrencies-get-openapi.md
@@ -1725,7 +1725,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listcurrencies-get-openapi.md
@@ -1759,7 +1759,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listcurrencies-get-openapi.md
@@ -1795,7 +1795,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listcurrencies-get-openapi.md
@@ -1833,7 +1833,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listcurrencies-get-openapi.md
@@ -1873,7 +1873,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listcurrencies-get-openapi.md
@@ -1915,7 +1915,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listcurrencies-get-openapi.md
@@ -1959,7 +1959,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listcurrencies-get-openapi.md
@@ -2005,7 +2005,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listcurrencies-get-openapi.md
@@ -2053,7 +2053,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listcurrencies-get-openapi.md
@@ -2103,7 +2103,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listcurrencies-get-openapi.md
@@ -2155,7 +2155,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listcurrencies-get-openapi.md
@@ -2209,7 +2209,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listcurrencies-get-openapi.md
@@ -2265,7 +2265,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listcurrencies-get-openapi.md
@@ -2323,7 +2323,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listcurrencies-get-openapi.md
@@ -2383,7 +2383,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listcurrencies-get-openapi.md
@@ -2445,7 +2445,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listcurrencies-get-openapi.md
@@ -2509,7 +2509,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listcurrencies-get-openapi.md
@@ -2575,7 +2575,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listcurrencies-get-openapi.md
@@ -2643,7 +2643,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listcurrencies-get-openapi.md
@@ -2713,7 +2713,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listcurrencies-get-openapi.md
@@ -2785,7 +2785,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listcurrencies-get-openapi.md
@@ -2859,7 +2859,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listcurrencies-get-openapi.md
@@ -2935,7 +2935,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listcurrencies-get-openapi.md
@@ -3013,7 +3013,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listcurrencies-get-openapi.md
@@ -3093,7 +3093,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listcurrencies-get-openapi.md
@@ -3175,7 +3175,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listcurrencies-get-openapi.md
@@ -3259,7 +3259,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listcurrencies-get-openapi.md
@@ -3345,7 +3345,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listcurrencies-get-openapi.md
@@ -3433,7 +3433,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listcurrencies-get-openapi.md
@@ -3523,7 +3523,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listcurrencies-get-openapi.md
@@ -3615,7 +3615,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listcurrencies-get-openapi.md
@@ -3709,7 +3709,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listcurrencies-get-openapi.md
@@ -3805,7 +3805,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listcurrencies-get-openapi.md
@@ -3903,7 +3903,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listcurrencies-get-openapi.md
@@ -4003,7 +4003,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listcurrencies-get-openapi.md
@@ -4105,7 +4105,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listcurrencies-get-openapi.md
@@ -4209,7 +4209,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listcurrencies-get-openapi.md
@@ -4315,7 +4315,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listcurrencies-get-openapi.md
@@ -4423,7 +4423,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listcurrencies-get-openapi.md
@@ -4533,7 +4533,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listcurrencies-get-openapi.md
@@ -4645,7 +4645,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listcurrencies-get-openapi.md
@@ -4759,7 +4759,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listcurrencies-get-openapi.md
@@ -4875,7 +4875,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listcurrencies-get-openapi.md
@@ -4993,7 +4993,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listcurrencies-get-openapi.md
@@ -5113,7 +5113,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listcurrencies-get-openapi.md
@@ -5235,7 +5235,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listcurrencies-get-openapi.md
@@ -5370,7 +5370,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getestimates-get-openapi.md
@@ -5384,7 +5384,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getestimates-get-openapi.md
@@ -5400,7 +5400,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getestimates-get-openapi.md
@@ -5418,7 +5418,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getestimates-get-openapi.md
@@ -5438,7 +5438,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getestimates-get-openapi.md
@@ -5460,7 +5460,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getestimates-get-openapi.md
@@ -5484,7 +5484,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getestimates-get-openapi.md
@@ -5510,7 +5510,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getestimates-get-openapi.md
@@ -5538,7 +5538,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getestimates-get-openapi.md
@@ -5579,7 +5579,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturesymbol-get-openapi.md
@@ -5593,7 +5593,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturesymbol-get-openapi.md
@@ -5609,7 +5609,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturesymbol-get-openapi.md
@@ -5627,7 +5627,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturesymbol-get-openapi.md
@@ -5647,7 +5647,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturesymbol-get-openapi.md
@@ -5669,7 +5669,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturesymbol-get-openapi.md
@@ -5693,7 +5693,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturesymbol-get-openapi.md
@@ -5719,7 +5719,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturesymbol-get-openapi.md
@@ -5747,7 +5747,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturesymbol-get-openapi.md
@@ -5777,7 +5777,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturesymbol-get-openapi.md
@@ -5809,7 +5809,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturesymbol-get-openapi.md
@@ -5843,7 +5843,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturesymbol-get-openapi.md
@@ -5879,7 +5879,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturesymbol-get-openapi.md
@@ -5917,7 +5917,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturesymbol-get-openapi.md
@@ -5957,7 +5957,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturesymbol-get-openapi.md
@@ -5999,7 +5999,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturesymbol-get-openapi.md
@@ -6043,7 +6043,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturesymbol-get-openapi.md
@@ -6089,7 +6089,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturesymbol-get-openapi.md
@@ -6137,7 +6137,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturesymbol-get-openapi.md
@@ -6187,7 +6187,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturesymbol-get-openapi.md
@@ -6239,7 +6239,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturesymbol-get-openapi.md
@@ -6293,7 +6293,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturesymbol-get-openapi.md
@@ -6349,7 +6349,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturesymbol-get-openapi.md
@@ -6407,7 +6407,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturesymbol-get-openapi.md
@@ -6467,7 +6467,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturesymbol-get-openapi.md
@@ -6529,7 +6529,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturesymbol-get-openapi.md
@@ -6593,7 +6593,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturesymbol-get-openapi.md
@@ -6659,7 +6659,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturesymbol-get-openapi.md
@@ -6727,7 +6727,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturesymbol-get-openapi.md
@@ -6797,7 +6797,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturesymbol-get-openapi.md
@@ -6869,7 +6869,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturesymbol-get-openapi.md
@@ -6943,7 +6943,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturesymbol-get-openapi.md
@@ -7019,7 +7019,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturesymbol-get-openapi.md
@@ -7097,7 +7097,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturesymbol-get-openapi.md
@@ -7177,7 +7177,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturesymbol-get-openapi.md
@@ -7259,7 +7259,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturesymbol-get-openapi.md
@@ -7343,7 +7343,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturesymbol-get-openapi.md
@@ -7429,7 +7429,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturesymbol-get-openapi.md
@@ -7517,7 +7517,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturesymbol-get-openapi.md
@@ -7607,7 +7607,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturesymbol-get-openapi.md
@@ -7699,7 +7699,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturesymbol-get-openapi.md
@@ -7793,7 +7793,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturesymbol-get-openapi.md
@@ -7889,7 +7889,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturesymbol-get-openapi.md
@@ -7987,7 +7987,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturesymbol-get-openapi.md
@@ -8087,7 +8087,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturesymbol-get-openapi.md
@@ -8189,7 +8189,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturesymbol-get-openapi.md
@@ -8293,7 +8293,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturesymbol-get-openapi.md
@@ -8399,7 +8399,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturesymbol-get-openapi.md
@@ -8507,7 +8507,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturesymbol-get-openapi.md
@@ -8617,7 +8617,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturesymbol-get-openapi.md
@@ -8729,7 +8729,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturesymbol-get-openapi.md
@@ -8843,7 +8843,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturesymbol-get-openapi.md
@@ -8959,7 +8959,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturesymbol-get-openapi.md
@@ -9077,7 +9077,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturesymbol-get-openapi.md
@@ -9197,7 +9197,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturesymbol-get-openapi.md
@@ -9319,7 +9319,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturesymbol-get-openapi.md
@@ -9443,7 +9443,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturesymbol-get-openapi.md
@@ -9569,7 +9569,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturesymbol-get-openapi.md
@@ -9697,7 +9697,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturesymbol-get-openapi.md
@@ -9827,7 +9827,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturesymbol-get-openapi.md
@@ -9959,7 +9959,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturesymbol-get-openapi.md
@@ -10093,7 +10093,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturesymbol-get-openapi.md
@@ -10229,7 +10229,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturesymbol-get-openapi.md
@@ -10367,7 +10367,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturesymbol-get-openapi.md
@@ -10507,7 +10507,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturesymbol-get-openapi.md
@@ -10660,7 +10660,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfile-get-openapi.md
@@ -10696,7 +10696,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getgloballastclosingprice-get-openapi.md
@@ -10710,7 +10710,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getgloballastclosingprice-get-openapi.md
@@ -10726,7 +10726,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getgloballastclosingprice-get-openapi.md
@@ -10744,7 +10744,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getgloballastclosingprice-get-openapi.md
@@ -10764,7 +10764,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getgloballastclosingprice-get-openapi.md
@@ -10786,7 +10786,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getgloballastclosingprice-get-openapi.md
@@ -10810,7 +10810,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getgloballastclosingprice-get-openapi.md
@@ -10836,7 +10836,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getgloballastclosingprice-get-openapi.md
@@ -10864,7 +10864,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getgloballastclosingprice-get-openapi.md
@@ -10894,7 +10894,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getgloballastclosingprice-get-openapi.md
@@ -10926,7 +10926,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getgloballastclosingprice-get-openapi.md
@@ -10960,7 +10960,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getgloballastclosingprice-get-openapi.md
@@ -10996,7 +10996,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getgloballastclosingprice-get-openapi.md
@@ -11034,7 +11034,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getgloballastclosingprice-get-openapi.md
@@ -11074,7 +11074,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getgloballastclosingprice-get-openapi.md
@@ -11116,7 +11116,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getgloballastclosingprice-get-openapi.md
@@ -11160,7 +11160,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getgloballastclosingprice-get-openapi.md
@@ -11206,7 +11206,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getgloballastclosingprice-get-openapi.md
@@ -11254,7 +11254,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getgloballastclosingprice-get-openapi.md
@@ -11304,7 +11304,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getgloballastclosingprice-get-openapi.md
@@ -11356,7 +11356,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getgloballastclosingprice-get-openapi.md
@@ -11410,7 +11410,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getgloballastclosingprice-get-openapi.md
@@ -11466,7 +11466,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getgloballastclosingprice-get-openapi.md
@@ -11524,7 +11524,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getgloballastclosingprice-get-openapi.md
@@ -11584,7 +11584,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getgloballastclosingprice-get-openapi.md
@@ -11646,7 +11646,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getgloballastclosingprice-get-openapi.md
@@ -11710,7 +11710,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getgloballastclosingprice-get-openapi.md
@@ -11776,7 +11776,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getgloballastclosingprice-get-openapi.md
@@ -11844,7 +11844,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getgloballastclosingprice-get-openapi.md
@@ -11936,7 +11936,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getdelayedindicesvalue-get-openapi.md
@@ -11950,7 +11950,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getdelayedindicesvalue-get-openapi.md
@@ -11966,7 +11966,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getdelayedindicesvalue-get-openapi.md
@@ -11984,7 +11984,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getdelayedindicesvalue-get-openapi.md
@@ -12004,7 +12004,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getdelayedindicesvalue-get-openapi.md
@@ -12026,7 +12026,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getdelayedindicesvalue-get-openapi.md
@@ -12050,7 +12050,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getdelayedindicesvalue-get-openapi.md
@@ -12076,7 +12076,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getdelayedindicesvalue-get-openapi.md
@@ -12104,7 +12104,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getdelayedindicesvalue-get-openapi.md
@@ -12134,7 +12134,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getdelayedindicesvalue-get-openapi.md
@@ -12177,7 +12177,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalindexvalues-get-openapi.md
@@ -12191,7 +12191,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalindexvalues-get-openapi.md
@@ -12207,7 +12207,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalindexvalues-get-openapi.md
@@ -12225,7 +12225,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalindexvalues-get-openapi.md
@@ -12245,7 +12245,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalindexvalues-get-openapi.md
@@ -12267,7 +12267,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalindexvalues-get-openapi.md
@@ -12291,7 +12291,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalindexvalues-get-openapi.md
@@ -12317,7 +12317,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalindexvalues-get-openapi.md
@@ -12345,7 +12345,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalindexvalues-get-openapi.md
@@ -12375,7 +12375,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalindexvalues-get-openapi.md
@@ -12407,7 +12407,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalindexvalues-get-openapi.md
@@ -12441,7 +12441,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalindexvalues-get-openapi.md
@@ -12477,7 +12477,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalindexvalues-get-openapi.md
@@ -12526,7 +12526,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getrealtimeindicesvalue-get-openapi.md
@@ -12540,7 +12540,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getrealtimeindicesvalue-get-openapi.md
@@ -12556,7 +12556,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getrealtimeindicesvalue-get-openapi.md
@@ -12574,7 +12574,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getrealtimeindicesvalue-get-openapi.md
@@ -12594,7 +12594,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getrealtimeindicesvalue-get-openapi.md
@@ -12616,7 +12616,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getrealtimeindicesvalue-get-openapi.md
@@ -12640,7 +12640,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getrealtimeindicesvalue-get-openapi.md
@@ -12666,7 +12666,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getrealtimeindicesvalue-get-openapi.md
@@ -12694,7 +12694,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getrealtimeindicesvalue-get-openapi.md
@@ -12724,7 +12724,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getrealtimeindicesvalue-get-openapi.md
@@ -12778,7 +12778,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getrealtimemetalquotes-get-openapi.md
@@ -12792,7 +12792,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getrealtimemetalquotes-get-openapi.md
@@ -12808,7 +12808,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getrealtimemetalquotes-get-openapi.md
@@ -12826,7 +12826,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getrealtimemetalquotes-get-openapi.md
@@ -12846,7 +12846,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getrealtimemetalquotes-get-openapi.md
@@ -12868,7 +12868,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getrealtimemetalquotes-get-openapi.md
@@ -12892,7 +12892,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getrealtimemetalquotes-get-openapi.md
@@ -12918,7 +12918,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getrealtimemetalquotes-get-openapi.md
@@ -12946,7 +12946,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getrealtimemetalquotes-get-openapi.md
@@ -12976,7 +12976,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getrealtimemetalquotes-get-openapi.md
@@ -13008,7 +13008,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getrealtimemetalquotes-get-openapi.md
@@ -13042,7 +13042,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getrealtimemetalquotes-get-openapi.md
@@ -13078,7 +13078,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getrealtimemetalquotes-get-openapi.md
@@ -13116,7 +13116,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getrealtimemetalquotes-get-openapi.md
@@ -13156,7 +13156,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getrealtimemetalquotes-get-openapi.md
@@ -13198,7 +13198,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getrealtimemetalquotes-get-openapi.md
@@ -13242,7 +13242,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getrealtimemetalquotes-get-openapi.md
@@ -13288,7 +13288,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getrealtimemetalquotes-get-openapi.md
@@ -13336,7 +13336,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getrealtimemetalquotes-get-openapi.md
@@ -13397,7 +13397,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettopreleasesbysecurity-get-openapi.md
@@ -13411,30 +13411,12 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettopreleasesbysecurity-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalreleasesbysecurity-get-openapi.md
-- name: Xignite Global News
-  x-api-slug: xignite-global-news
-  description: financial-news-apis-
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/xignite-logo.png
-  humanURL: http://www.xignite.com
-  baseURL: https://globalnews.xignite.com/xGlobalNews.xml/
-  tags: Trading, Government, Charts, Bond Markets, Energy, Jobs, JavaScript, Markets,
-    Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
-    Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
-    Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettopreleasesbysecurity-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalreleasesbysecurity-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getmarketnewsdetails-get-openapi.md
 - name: Xignite Global News
   x-api-slug: xignite-global-news
   description: financial-news-apis-
@@ -13445,7 +13427,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettopreleasesbysecurity-get-openapi.md
@@ -13453,8 +13435,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalreleasesbysecurity-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getmarketnewsdetails-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettodaysmarketheadlines-get-openapi.md
 - name: Xignite Global News
   x-api-slug: xignite-global-news
   description: financial-news-apis-
@@ -13465,7 +13445,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettopreleasesbysecurity-get-openapi.md
@@ -13475,8 +13455,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getmarketnewsdetails-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettodaysmarketheadlines-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettopsecurityheadlines-get-openapi.md
 - name: Xignite Global News
   x-api-slug: xignite-global-news
   description: financial-news-apis-
@@ -13487,7 +13465,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettopreleasesbysecurity-get-openapi.md
@@ -13499,8 +13477,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettodaysmarketheadlines-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettopsecurityheadlines-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettopmarketheadlines-get-openapi.md
 - name: Xignite Global News
   x-api-slug: xignite-global-news
   description: financial-news-apis-
@@ -13511,7 +13487,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettopreleasesbysecurity-get-openapi.md
@@ -13525,8 +13501,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettopsecurityheadlines-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettopmarketheadlines-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettodaysreleasesbysecurity-get-openapi.md
 - name: Xignite Global News
   x-api-slug: xignite-global-news
   description: financial-news-apis-
@@ -13537,7 +13511,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettopreleasesbysecurity-get-openapi.md
@@ -13553,8 +13527,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettopmarketheadlines-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettodaysreleasesbysecurity-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalsecurityheadlines-get-openapi.md
 - name: Xignite Global News
   x-api-slug: xignite-global-news
   description: financial-news-apis-
@@ -13565,7 +13537,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettopreleasesbysecurity-get-openapi.md
@@ -13583,8 +13555,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettodaysreleasesbysecurity-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalsecurityheadlines-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettopmarketheadlinesbysector-get-openapi.md
 - name: Xignite Global News
   x-api-slug: xignite-global-news
   description: financial-news-apis-
@@ -13595,7 +13565,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettopreleasesbysecurity-get-openapi.md
@@ -13615,8 +13585,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalsecurityheadlines-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettopmarketheadlinesbysector-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettodaysmarketreleases-get-openapi.md
 - name: Xignite Global News
   x-api-slug: xignite-global-news
   description: financial-news-apis-
@@ -13627,7 +13595,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettopreleasesbysecurity-get-openapi.md
@@ -13649,8 +13617,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettopmarketheadlinesbysector-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettodaysmarketreleases-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettodaysmarketheadlinesbysector-get-openapi.md
 - name: Xignite Global News
   x-api-slug: xignite-global-news
   description: financial-news-apis-
@@ -13661,7 +13627,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettopreleasesbysecurity-get-openapi.md
@@ -13685,8 +13651,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettodaysmarketreleases-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettodaysmarketheadlinesbysector-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettodayssecurityheadlines-get-openapi.md
 - name: Xignite Global News
   x-api-slug: xignite-global-news
   description: financial-news-apis-
@@ -13697,7 +13661,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettopreleasesbysecurity-get-openapi.md
@@ -13723,8 +13687,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettodaysmarketheadlinesbysector-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettodayssecurityheadlines-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getrecenttopsecurityheadlines-get-openapi.md
 - name: Xignite Global News
   x-api-slug: xignite-global-news
   description: financial-news-apis-
@@ -13735,7 +13697,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettopreleasesbysecurity-get-openapi.md
@@ -13763,8 +13725,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettodayssecurityheadlines-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getrecenttopsecurityheadlines-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalmarketheadlines-get-openapi.md
 - name: Xignite Global News
   x-api-slug: xignite-global-news
   description: financial-news-apis-
@@ -13775,7 +13735,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettopreleasesbysecurity-get-openapi.md
@@ -13805,8 +13765,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getrecenttopsecurityheadlines-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalmarketheadlines-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalmarketheadlinesbysector-get-openapi.md
 - name: Xignite Global News
   x-api-slug: xignite-global-news
   description: financial-news-apis-
@@ -13817,7 +13775,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettopreleasesbysecurity-get-openapi.md
@@ -13849,8 +13807,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalmarketheadlines-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalmarketheadlinesbysector-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listsectors-get-openapi.md
 - name: Xignite Global News
   x-api-slug: xignite-global-news
   description: financial-news-apis-
@@ -13861,7 +13817,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettopreleasesbysecurity-get-openapi.md
@@ -13895,8 +13851,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalmarketheadlinesbysector-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listsectors-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettopsecuritysummaries-get-openapi.md
 - name: Xignite Global News
   x-api-slug: xignite-global-news
   description: financial-news-apis-
@@ -13907,7 +13861,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettopreleasesbysecurity-get-openapi.md
@@ -13943,8 +13897,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listsectors-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettopsecuritysummaries-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettopreleasesummariesbysecurity-get-openapi.md
 - name: Xignite Global News
   x-api-slug: xignite-global-news
   description: financial-news-apis-
@@ -13955,7 +13907,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettopreleasesbysecurity-get-openapi.md
@@ -13993,8 +13945,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettopsecuritysummaries-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettopreleasesummariesbysecurity-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettopmarketsummaries-get-openapi.md
 - name: Xignite Global News
   x-api-slug: xignite-global-news
   description: financial-news-apis-
@@ -14005,7 +13955,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettopreleasesbysecurity-get-openapi.md
@@ -14045,8 +13995,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettopreleasesummariesbysecurity-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettopmarketsummaries-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listexchanges-get-openapi.md
 - name: Xignite Global News
   x-api-slug: xignite-global-news
   description: financial-news-apis-
@@ -14057,7 +14005,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettopreleasesbysecurity-get-openapi.md
@@ -14099,8 +14047,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettopmarketsummaries-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listexchanges-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listsymbols-get-openapi.md
 - name: Xignite Global News
   x-api-slug: xignite-global-news
   description: financial-news-apis-
@@ -14111,7 +14057,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettopreleasesbysecurity-get-openapi.md
@@ -14155,8 +14101,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listexchanges-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listsymbols-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalmarketheadlines-get-openapi.md
 - name: Xignite Global News
   x-api-slug: xignite-global-news
   description: financial-news-apis-
@@ -14167,7 +14111,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettopreleasesbysecurity-get-openapi.md
@@ -14213,8 +14157,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listsymbols-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalmarketheadlines-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalmarketheadlinesbysector-get-openapi.md
 - name: Xignite Global News
   x-api-slug: xignite-global-news
   description: financial-news-apis-
@@ -14225,7 +14167,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettopreleasesbysecurity-get-openapi.md
@@ -14273,8 +14215,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalmarketheadlines-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalmarketheadlinesbysector-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalreleasesbysecurity-get-openapi.md
 - name: Xignite Global News
   x-api-slug: xignite-global-news
   description: financial-news-apis-
@@ -14285,7 +14225,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettopreleasesbysecurity-get-openapi.md
@@ -14335,8 +14275,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalmarketheadlinesbysector-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalreleasesbysecurity-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalsecurityheadlines-get-openapi.md
 - name: Xignite Global News
   x-api-slug: xignite-global-news
   description: financial-news-apis-
@@ -14347,7 +14285,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettopreleasesbysecurity-get-openapi.md
@@ -14399,8 +14337,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalreleasesbysecurity-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalsecurityheadlines-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getmarketnewsdetails-get-openapi.md
 - name: Xignite Global News
   x-api-slug: xignite-global-news
   description: financial-news-apis-
@@ -14411,7 +14347,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettopreleasesbysecurity-get-openapi.md
@@ -14465,8 +14401,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalsecurityheadlines-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getmarketnewsdetails-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettodaysmarketheadlines-get-openapi.md
 - name: Xignite Global News
   x-api-slug: xignite-global-news
   description: financial-news-apis-
@@ -14477,7 +14411,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettopreleasesbysecurity-get-openapi.md
@@ -14533,8 +14467,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getmarketnewsdetails-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettodaysmarketheadlines-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettodaysmarketheadlinesbysector-get-openapi.md
 - name: Xignite Global News
   x-api-slug: xignite-global-news
   description: financial-news-apis-
@@ -14545,7 +14477,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettopreleasesbysecurity-get-openapi.md
@@ -14603,8 +14535,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettodaysmarketheadlines-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettodaysmarketheadlinesbysector-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettodaysreleasesbysecurity-get-openapi.md
 - name: Xignite Global News
   x-api-slug: xignite-global-news
   description: financial-news-apis-
@@ -14615,7 +14545,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettopreleasesbysecurity-get-openapi.md
@@ -14675,8 +14605,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettodaysmarketheadlinesbysector-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettodaysreleasesbysecurity-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettodayssecurityheadlines-get-openapi.md
 - name: Xignite Global News
   x-api-slug: xignite-global-news
   description: financial-news-apis-
@@ -14687,7 +14615,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettopreleasesbysecurity-get-openapi.md
@@ -14749,8 +14677,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettodaysreleasesbysecurity-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettodayssecurityheadlines-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettopmarketheadlines-get-openapi.md
 - name: Xignite Global News
   x-api-slug: xignite-global-news
   description: financial-news-apis-
@@ -14761,7 +14687,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettopreleasesbysecurity-get-openapi.md
@@ -14825,8 +14751,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettodayssecurityheadlines-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettopmarketheadlines-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettopmarketheadlinesbysector-get-openapi.md
 - name: Xignite Global News
   x-api-slug: xignite-global-news
   description: financial-news-apis-
@@ -14837,7 +14761,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettopreleasesbysecurity-get-openapi.md
@@ -14903,8 +14827,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettopmarketheadlines-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettopmarketheadlinesbysector-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettopreleasesbysecurity-get-openapi.md
 - name: Xignite Global News
   x-api-slug: xignite-global-news
   description: financial-news-apis-
@@ -14915,7 +14837,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettopreleasesbysecurity-get-openapi.md
@@ -14983,6 +14905,84 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettopmarketheadlinesbysector-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettopreleasesbysecurity-get-openapi.md
+- name: Xignite Global News
+  x-api-slug: xignite-global-news
+  description: financial-news-apis-
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/xignite-logo.png
+  humanURL: http://www.xignite.com
+  baseURL: https://globalnews.xignite.com/xGlobalNews.xml/
+  tags: Trading, Government, Charts, Bond Markets, Energy, Jobs, JavaScript, Markets,
+    Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
+    Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
+    Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettopreleasesbysecurity-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalreleasesbysecurity-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getmarketnewsdetails-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettodaysmarketheadlines-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettopsecurityheadlines-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettopmarketheadlines-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettodaysreleasesbysecurity-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalsecurityheadlines-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettopmarketheadlinesbysector-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettodaysmarketreleases-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettodaysmarketheadlinesbysector-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettodayssecurityheadlines-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getrecenttopsecurityheadlines-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalmarketheadlines-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalmarketheadlinesbysector-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listsectors-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettopsecuritysummaries-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettopreleasesummariesbysecurity-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettopmarketsummaries-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listexchanges-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listsymbols-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalmarketheadlines-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalmarketheadlinesbysector-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalreleasesbysecurity-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalsecurityheadlines-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getmarketnewsdetails-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettodaysmarketheadlines-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettodaysmarketheadlinesbysector-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettodaysreleasesbysecurity-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettodayssecurityheadlines-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettopmarketheadlines-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettopmarketheadlinesbysector-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettopreleasesbysecurity-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettopsecurityheadlines-get-openapi.md
 - name: Xignite Global News
@@ -14995,7 +14995,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gettopreleasesbysecurity-get-openapi.md
@@ -15088,7 +15088,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getunderlyingforoption-get-openapi.md
@@ -15102,7 +15102,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getunderlyingforoption-get-openapi.md
@@ -15118,7 +15118,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getunderlyingforoption-get-openapi.md
@@ -15136,7 +15136,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getunderlyingforoption-get-openapi.md
@@ -15189,7 +15189,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturequote-get-openapi.md
@@ -15203,7 +15203,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturequote-get-openapi.md
@@ -15219,7 +15219,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturequote-get-openapi.md
@@ -15237,7 +15237,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturequote-get-openapi.md
@@ -15257,7 +15257,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturequote-get-openapi.md
@@ -15279,7 +15279,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturequote-get-openapi.md
@@ -15303,7 +15303,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturequote-get-openapi.md
@@ -15329,7 +15329,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturequote-get-openapi.md
@@ -15357,7 +15357,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturequote-get-openapi.md
@@ -15387,7 +15387,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturequote-get-openapi.md
@@ -15419,7 +15419,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturequote-get-openapi.md
@@ -15453,7 +15453,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturequote-get-openapi.md
@@ -15489,7 +15489,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturequote-get-openapi.md
@@ -15527,7 +15527,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturequote-get-openapi.md
@@ -15567,7 +15567,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturequote-get-openapi.md
@@ -15609,7 +15609,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturequote-get-openapi.md
@@ -15653,7 +15653,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturequote-get-openapi.md
@@ -15699,7 +15699,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getfuturequote-get-openapi.md
@@ -15769,7 +15769,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalquoteadjusted-get-openapi.md
@@ -15783,7 +15783,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalquoteadjusted-get-openapi.md
@@ -15799,7 +15799,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalquoteadjusted-get-openapi.md
@@ -15817,7 +15817,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalquoteadjusted-get-openapi.md
@@ -15837,7 +15837,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalquoteadjusted-get-openapi.md
@@ -15859,7 +15859,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalquoteadjusted-get-openapi.md
@@ -15883,7 +15883,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalquoteadjusted-get-openapi.md
@@ -15909,7 +15909,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalquoteadjusted-get-openapi.md
@@ -15937,7 +15937,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalquoteadjusted-get-openapi.md
@@ -15967,7 +15967,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalquoteadjusted-get-openapi.md
@@ -15999,7 +15999,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalquoteadjusted-get-openapi.md
@@ -16033,7 +16033,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalquoteadjusted-get-openapi.md
@@ -16069,7 +16069,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalquoteadjusted-get-openapi.md
@@ -16107,7 +16107,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalquoteadjusted-get-openapi.md
@@ -16147,7 +16147,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalquoteadjusted-get-openapi.md
@@ -16189,7 +16189,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalquoteadjusted-get-openapi.md
@@ -16233,7 +16233,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalquoteadjusted-get-openapi.md
@@ -16279,7 +16279,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalquoteadjusted-get-openapi.md
@@ -16327,7 +16327,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalquoteadjusted-get-openapi.md
@@ -16377,7 +16377,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalquoteadjusted-get-openapi.md
@@ -16429,7 +16429,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalquoteadjusted-get-openapi.md
@@ -16483,7 +16483,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalquoteadjusted-get-openapi.md
@@ -16539,7 +16539,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalquoteadjusted-get-openapi.md
@@ -16597,7 +16597,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalquoteadjusted-get-openapi.md
@@ -16657,7 +16657,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalquoteadjusted-get-openapi.md
@@ -16719,7 +16719,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalquoteadjusted-get-openapi.md
@@ -16783,7 +16783,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalquoteadjusted-get-openapi.md
@@ -16849,7 +16849,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalquoteadjusted-get-openapi.md
@@ -16917,7 +16917,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalquoteadjusted-get-openapi.md
@@ -16987,7 +16987,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalquoteadjusted-get-openapi.md
@@ -17059,7 +17059,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalquoteadjusted-get-openapi.md
@@ -17133,7 +17133,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalquoteadjusted-get-openapi.md
@@ -17209,7 +17209,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalquoteadjusted-get-openapi.md
@@ -17287,7 +17287,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalquoteadjusted-get-openapi.md
@@ -17367,7 +17367,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalquoteadjusted-get-openapi.md
@@ -17449,7 +17449,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalquoteadjusted-get-openapi.md
@@ -17533,7 +17533,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalquoteadjusted-get-openapi.md
@@ -17619,7 +17619,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalquoteadjusted-get-openapi.md
@@ -17707,7 +17707,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalquoteadjusted-get-openapi.md
@@ -17797,7 +17797,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalquoteadjusted-get-openapi.md
@@ -17889,7 +17889,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalquoteadjusted-get-openapi.md
@@ -17994,7 +17994,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listrates-get-openapi.md
@@ -18008,7 +18008,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listrates-get-openapi.md
@@ -18024,7 +18024,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listrates-get-openapi.md
@@ -18042,7 +18042,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listrates-get-openapi.md
@@ -18062,7 +18062,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listrates-get-openapi.md
@@ -18084,7 +18084,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listrates-get-openapi.md
@@ -18108,7 +18108,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listrates-get-openapi.md
@@ -18134,7 +18134,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listrates-get-openapi.md
@@ -18162,7 +18162,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listrates-get-openapi.md
@@ -18192,7 +18192,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listrates-get-openapi.md
@@ -18224,7 +18224,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listrates-get-openapi.md
@@ -18258,7 +18258,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listrates-get-openapi.md
@@ -18294,7 +18294,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listrates-get-openapi.md
@@ -18332,7 +18332,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listrates-get-openapi.md
@@ -18372,7 +18372,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listrates-get-openapi.md
@@ -18414,7 +18414,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listrates-get-openapi.md
@@ -18458,7 +18458,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listrates-get-openapi.md
@@ -18504,7 +18504,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listrates-get-openapi.md
@@ -18552,7 +18552,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listrates-get-openapi.md
@@ -18602,7 +18602,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listrates-get-openapi.md
@@ -18654,7 +18654,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listrates-get-openapi.md
@@ -18708,7 +18708,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listrates-get-openapi.md
@@ -18764,7 +18764,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listrates-get-openapi.md
@@ -18822,7 +18822,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listrates-get-openapi.md
@@ -18882,7 +18882,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listrates-get-openapi.md
@@ -18944,7 +18944,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listrates-get-openapi.md
@@ -19008,7 +19008,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listrates-get-openapi.md
@@ -19074,7 +19074,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listrates-get-openapi.md
@@ -19142,7 +19142,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listrates-get-openapi.md
@@ -19212,7 +19212,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listrates-get-openapi.md
@@ -19284,7 +19284,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listrates-get-openapi.md
@@ -19358,7 +19358,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listrates-get-openapi.md
@@ -19434,7 +19434,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listrates-get-openapi.md
@@ -19512,7 +19512,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listrates-get-openapi.md
@@ -19592,7 +19592,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listrates-get-openapi.md
@@ -19674,7 +19674,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listrates-get-openapi.md
@@ -19758,7 +19758,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listrates-get-openapi.md
@@ -19844,7 +19844,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listrates-get-openapi.md
@@ -19932,7 +19932,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listrates-get-openapi.md
@@ -20022,7 +20022,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listrates-get-openapi.md
@@ -20114,7 +20114,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listrates-get-openapi.md
@@ -20208,7 +20208,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listrates-get-openapi.md
@@ -20304,7 +20304,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listrates-get-openapi.md
@@ -20402,7 +20402,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listrates-get-openapi.md
@@ -20502,7 +20502,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listrates-get-openapi.md
@@ -20604,7 +20604,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listrates-get-openapi.md
@@ -20708,7 +20708,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listrates-get-openapi.md
@@ -20814,7 +20814,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listrates-get-openapi.md
@@ -20922,7 +20922,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listrates-get-openapi.md
@@ -21032,7 +21032,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listrates-get-openapi.md
@@ -21144,7 +21144,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listrates-get-openapi.md
@@ -21258,7 +21258,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listrates-get-openapi.md
@@ -21374,7 +21374,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listrates-get-openapi.md
@@ -21492,7 +21492,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listrates-get-openapi.md
@@ -21612,7 +21612,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listrates-get-openapi.md
@@ -21734,7 +21734,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listrates-get-openapi.md
@@ -21858,7 +21858,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listrates-get-openapi.md
@@ -21984,7 +21984,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listrates-get-openapi.md
@@ -22112,7 +22112,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listrates-get-openapi.md
@@ -22242,7 +22242,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listrates-get-openapi.md
@@ -22374,7 +22374,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listrates-get-openapi.md
@@ -22508,7 +22508,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listrates-get-openapi.md
@@ -22644,7 +22644,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listrates-get-openapi.md
@@ -22782,7 +22782,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listrates-get-openapi.md
@@ -22922,7 +22922,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listrates-get-openapi.md
@@ -23064,7 +23064,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listrates-get-openapi.md
@@ -23208,7 +23208,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listrates-get-openapi.md
@@ -23354,7 +23354,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listrates-get-openapi.md
@@ -23502,7 +23502,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listrates-get-openapi.md
@@ -23652,7 +23652,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listrates-get-openapi.md
@@ -23804,7 +23804,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/listrates-get-openapi.md
@@ -23969,7 +23969,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getipo-get-openapi.md
@@ -23983,7 +23983,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getipo-get-openapi.md
@@ -23999,7 +23999,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getipo-get-openapi.md
@@ -24017,7 +24017,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getipo-get-openapi.md
@@ -24037,7 +24037,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getipo-get-openapi.md
@@ -24059,7 +24059,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getipo-get-openapi.md
@@ -24083,7 +24083,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getipo-get-openapi.md
@@ -24109,7 +24109,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getipo-get-openapi.md
@@ -24137,7 +24137,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getipo-get-openapi.md
@@ -24167,7 +24167,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getipo-get-openapi.md
@@ -24221,7 +24221,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getswaprate-get-openapi.md
@@ -24235,7 +24235,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getswaprate-get-openapi.md
@@ -24251,7 +24251,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getswaprate-get-openapi.md
@@ -24269,7 +24269,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getswaprate-get-openapi.md
@@ -24289,7 +24289,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getswaprate-get-openapi.md
@@ -24311,7 +24311,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getswaprate-get-openapi.md
@@ -24335,7 +24335,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getswaprate-get-openapi.md
@@ -24361,7 +24361,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getswaprate-get-openapi.md
@@ -24389,7 +24389,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getswaprate-get-openapi.md
@@ -24419,7 +24419,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getswaprate-get-openapi.md
@@ -24451,7 +24451,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getswaprate-get-openapi.md
@@ -24485,7 +24485,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getswaprate-get-openapi.md
@@ -24521,7 +24521,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getswaprate-get-openapi.md
@@ -24559,7 +24559,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getswaprate-get-openapi.md
@@ -24599,7 +24599,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getswaprate-get-openapi.md
@@ -24641,7 +24641,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getswaprate-get-openapi.md
@@ -24685,7 +24685,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getswaprate-get-openapi.md
@@ -24731,7 +24731,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getswaprate-get-openapi.md
@@ -24779,7 +24779,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getswaprate-get-openapi.md
@@ -24873,7 +24873,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getliborsecure-get-openapi.md
@@ -24887,7 +24887,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getliborsecure-get-openapi.md
@@ -24903,7 +24903,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getliborsecure-get-openapi.md
@@ -24921,7 +24921,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getliborsecure-get-openapi.md
@@ -24941,7 +24941,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getliborsecure-get-openapi.md
@@ -24963,7 +24963,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getliborsecure-get-openapi.md
@@ -24987,7 +24987,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getliborsecure-get-openapi.md
@@ -25013,7 +25013,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getliborsecure-get-openapi.md
@@ -25041,7 +25041,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getliborsecure-get-openapi.md
@@ -25071,7 +25071,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getliborsecure-get-openapi.md
@@ -25103,7 +25103,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getliborsecure-get-openapi.md
@@ -25137,7 +25137,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getliborsecure-get-openapi.md
@@ -25173,7 +25173,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getliborsecure-get-openapi.md
@@ -25211,7 +25211,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getliborsecure-get-openapi.md
@@ -25251,7 +25251,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getliborsecure-get-openapi.md
@@ -25293,7 +25293,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getliborsecure-get-openapi.md
@@ -25337,7 +25337,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getliborsecure-get-openapi.md
@@ -25383,7 +25383,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getliborsecure-get-openapi.md
@@ -25431,7 +25431,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getliborsecure-get-openapi.md
@@ -25481,7 +25481,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getliborsecure-get-openapi.md
@@ -25533,7 +25533,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getliborsecure-get-openapi.md
@@ -25587,7 +25587,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getliborsecure-get-openapi.md
@@ -25643,7 +25643,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getliborsecure-get-openapi.md
@@ -25701,7 +25701,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getliborsecure-get-openapi.md
@@ -25761,7 +25761,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getliborsecure-get-openapi.md
@@ -25823,7 +25823,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getliborsecure-get-openapi.md
@@ -25887,7 +25887,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getliborsecure-get-openapi.md
@@ -25953,7 +25953,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getliborsecure-get-openapi.md
@@ -26021,7 +26021,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getliborsecure-get-openapi.md
@@ -26091,7 +26091,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getliborsecure-get-openapi.md
@@ -26163,7 +26163,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getliborsecure-get-openapi.md
@@ -26237,7 +26237,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getliborsecure-get-openapi.md
@@ -26313,7 +26313,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getliborsecure-get-openapi.md
@@ -26391,7 +26391,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getliborsecure-get-openapi.md
@@ -26471,7 +26471,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getliborsecure-get-openapi.md
@@ -26553,7 +26553,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getliborsecure-get-openapi.md
@@ -26637,7 +26637,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getliborsecure-get-openapi.md
@@ -26723,7 +26723,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getliborsecure-get-openapi.md
@@ -26811,7 +26811,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getliborsecure-get-openapi.md
@@ -26901,7 +26901,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getliborsecure-get-openapi.md
@@ -26993,7 +26993,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getliborsecure-get-openapi.md
@@ -27087,7 +27087,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getliborsecure-get-openapi.md
@@ -27183,7 +27183,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getliborsecure-get-openapi.md
@@ -27281,7 +27281,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getliborsecure-get-openapi.md
@@ -27381,7 +27381,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getliborsecure-get-openapi.md
@@ -27483,7 +27483,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getliborsecure-get-openapi.md
@@ -27587,7 +27587,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getliborsecure-get-openapi.md
@@ -27693,7 +27693,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getliborsecure-get-openapi.md
@@ -27801,7 +27801,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getliborsecure-get-openapi.md
@@ -27911,7 +27911,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getliborsecure-get-openapi.md
@@ -28023,7 +28023,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getliborsecure-get-openapi.md
@@ -28137,7 +28137,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getliborsecure-get-openapi.md
@@ -28253,7 +28253,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getliborsecure-get-openapi.md
@@ -28371,7 +28371,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getliborsecure-get-openapi.md
@@ -28491,7 +28491,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getliborsecure-get-openapi.md
@@ -28613,7 +28613,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getliborsecure-get-openapi.md
@@ -28737,7 +28737,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getliborsecure-get-openapi.md
@@ -28863,7 +28863,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getliborsecure-get-openapi.md
@@ -28991,7 +28991,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getliborsecure-get-openapi.md
@@ -29121,7 +29121,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getliborsecure-get-openapi.md
@@ -29253,7 +29253,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getliborsecure-get-openapi.md
@@ -29387,7 +29387,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getliborsecure-get-openapi.md
@@ -29534,7 +29534,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalmarketheadlines-get-postman.md
@@ -29550,7 +29550,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalmarketheadlines-get-postman.md
@@ -29570,7 +29570,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalmarketheadlines-get-postman.md
@@ -29594,7 +29594,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalmarketheadlines-get-postman.md
@@ -29622,7 +29622,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalmarketheadlines-get-postman.md
@@ -29654,7 +29654,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalmarketheadlines-get-postman.md
@@ -29690,7 +29690,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalmarketheadlines-get-postman.md
@@ -29730,7 +29730,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalmarketheadlines-get-postman.md
@@ -29774,7 +29774,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalmarketheadlines-get-postman.md
@@ -29822,7 +29822,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/gethistoricalmarketheadlines-get-postman.md
@@ -29885,7 +29885,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getcategoriesandtopics-get-openapi.md
@@ -29899,7 +29899,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getcategoriesandtopics-get-openapi.md
@@ -29915,7 +29915,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getcategoriesandtopics-get-openapi.md
@@ -29933,7 +29933,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getcategoriesandtopics-get-openapi.md
@@ -29953,7 +29953,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getcategoriesandtopics-get-openapi.md
@@ -29975,7 +29975,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getcategoriesandtopics-get-openapi.md
@@ -29999,7 +29999,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getcategoriesandtopics-get-openapi.md
@@ -30025,7 +30025,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getcategoriesandtopics-get-openapi.md
@@ -30053,7 +30053,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getcategoriesandtopics-get-openapi.md
@@ -30083,7 +30083,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getcategoriesandtopics-get-openapi.md
@@ -30115,7 +30115,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getcategoriesandtopics-get-openapi.md
@@ -30149,7 +30149,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getcategoriesandtopics-get-openapi.md
@@ -30185,7 +30185,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getcategoriesandtopics-get-openapi.md
@@ -30223,7 +30223,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getcategoriesandtopics-get-openapi.md
@@ -30263,7 +30263,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getcategoriesandtopics-get-openapi.md
@@ -30305,7 +30305,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getcategoriesandtopics-get-openapi.md
@@ -30349,7 +30349,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getcategoriesandtopics-get-openapi.md
@@ -30395,7 +30395,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getcategoriesandtopics-get-openapi.md
@@ -30443,7 +30443,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getcategoriesandtopics-get-openapi.md
@@ -30493,7 +30493,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getcategoriesandtopics-get-openapi.md
@@ -30545,7 +30545,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getcategoriesandtopics-get-openapi.md
@@ -30610,7 +30610,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getquote-get-openapi.md
@@ -30624,7 +30624,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getquote-get-openapi.md
@@ -30640,7 +30640,7 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/getquote-get-openapi.md
@@ -30673,6 +30673,8 @@ apis:
 x-common:
 - type: x--net-sdk
   url: http://xignite.github.io/DotNetSDK/
+- type: x-api-gallery
+  url: http://xibo.api.gallery.streamdata.io
 - type: x-api-stack
   url: http://xignite.stack.network
 - type: x-base

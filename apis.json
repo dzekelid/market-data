@@ -1,64 +1,40 @@
 {
-	"name": "nFusion Solutions",
-	"x-slug": "nfusion-solutions",
-	"description": "nFusion Solutions ecosystem of products and solutions lets you power your apps, websites and software with precious metals market data directly from exchanges around the world. Built on the Azure Cloud platform, nFusion delivers a reliable and scalabl...",
-	"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28883-nfusionsolutions-com.jpg",
+	"name": "Coherent Data Adapter: OpenFIGI Client Edition",
+	"x-slug": "coherent-data-adapter-openfigi-client-edition",
+	"description": "Eliminate redundant mapping processes, streamline the trade workflow and reduce operational risk with more than 300 trillion potential identifiers available.",
+	"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28890-openfigi-com.jpg",
 	"x-kinRank": "7",
-	"x-alexaRank": "4970472",
+	"x-alexaRank": "2116239",
 	"tags": "Market Data",
-	"created": "2018-08-19",
-	"modified": "2018-08-19",
-	"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/market-data\/master\/_listings\/nfusion-solutions\/apis.md",
+	"created": "2018-08-23",
+	"modified": "2018-08-23",
+	"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/market-data\/master\/_listings\/coherent-data-adapter-openfigi-client-edition\/apis.md",
 	"specificationVersion": "0.14",
 	"apis": [
 		{
-			"name": "nFusion API",
-			"x-api-slug": "nfusion-api",
-			"description": "nFusion Solutions ecosystem of products and solutions lets you power your apps, websites and software with precious metals market data directly from exchanges around the world. Built on the Azure Cloud platform, nFusion delivers a reliable and scalabl...",
-			"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28883-nfusionsolutions-com.jpg",
-			"humanURL": "http:\/\/www.nfusionsolutions.com",
-			"baseURL": "https:\/\/api.nfusionsolutions.biz\/\/",
+			"name": "Coherent Data Adapter: OpenFIGI Client Edition",
+			"x-api-slug": "coherent-data-adapter-openfigi-client-edition",
+			"description": "Eliminate redundant mapping processes, streamline the trade workflow and reduce operational risk with more than 300 trillion potential identifiers available.",
+			"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28890-openfigi-com.jpg",
+			"humanURL": "https:\/\/openfigi.com",
+			"baseURL": "https:\/\/\/",
 			"tags": "Market Data",
 			"properties": [
 				{
 					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/market-data\/master\/_listings\/nfusion-solutions\/openapi.md"
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/market-data\/master\/_listings\/coherent-data-adapter-openfigi-client-edition\/openapi.md"
 				}
 			]
 		}
 	],
 	"x-common": [
 		{
-			"type": "x-blog-rss",
-			"url": "https:\/\/nfusionsolutions.com\/feed\/"
-		},
-		{
-			"type": "x-documentation",
-			"url": "https:\/\/api.nfusionsolutions.biz\/api-docs\/index.html"
-		},
-		{
-			"type": "x-openapi",
-			"url": "https:\/\/api.nfusionsolutions.biz\/swagger\/1\/swagger.json"
+			"type": "x-email",
+			"url": "support@openfigi.com"
 		},
 		{
 			"type": "x-website",
-			"url": "http:\/\/www.nfusionsolutions.com"
-		},
-		{
-			"type": "x-api-stack",
-			"url": "http:\/\/nfusion.solutions.stack.network"
-		},
-		{
-			"type": "x-blog",
-			"url": "https:\/\/nfusionsolutions.com\/metals-blog\/"
-		},
-		{
-			"type": "x-twitter",
-			"url": "https:\/\/twitter.com\/nfusionsolution"
-		},
-		{
-			"type": "x-website",
-			"url": "https:\/\/nfusionsolutions.com"
+			"url": "https:\/\/openfigi.com"
 		}
 	],
 	"include": [

@@ -8,8 +8,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28283-apic
 x-kinRank: "7"
 x-alexaRank: "4720"
 tags: Market Data
-created: "2018-08-19"
-modified: "2018-08-19"
+created: "2018-08-23"
+modified: "2018-08-23"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/morningstar/apis.md
 specificationVersion: "0.14"
 apis:

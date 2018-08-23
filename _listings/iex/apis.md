@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28093-iex.
 x-kinRank: "9"
 x-alexaRank: "166667"
 tags: Market Data
-created: "2018-08-19"
-modified: "2018-08-19"
+created: "2018-08-23"
+modified: "2018-08-23"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/apis.md
 specificationVersion: "0.14"
 apis:
@@ -206,7 +206,8 @@ apis:
   humanURL: https://iextrading.com
   baseURL: https://api.iextrading.com//1.0
   tags: Marketplace, Market Data, Data Provider, API Provider, Financial Services,
-    Profiles, General Data API, Service API, Relative Data API, Pedestal
+    Profiles, General Data, Service API, Relative Data, Pedestal, Historical Data
+    API, StreamRank, Relative StreamRank
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stockmarketbatch-get-openapi.md
@@ -217,7 +218,8 @@ apis:
   humanURL: https://iextrading.com
   baseURL: https://api.iextrading.com//1.0
   tags: Marketplace, Market Data, Data Provider, API Provider, Financial Services,
-    Profiles, General Data API, Service API, Relative Data API, Pedestal
+    Profiles, General Data, Service API, Relative Data, Pedestal, Historical Data
+    API, StreamRank, Relative StreamRank
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stockmarketbatch-get-openapi.md
@@ -230,7 +232,8 @@ apis:
   humanURL: https://iextrading.com
   baseURL: https://api.iextrading.com//1.0
   tags: Marketplace, Market Data, Data Provider, API Provider, Financial Services,
-    Profiles, General Data API, Service API, Relative Data API, Pedestal
+    Profiles, General Data, Service API, Relative Data, Pedestal, Historical Data
+    API, StreamRank, Relative StreamRank
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stockmarketbatch-get-openapi.md
@@ -245,7 +248,8 @@ apis:
   humanURL: https://iextrading.com
   baseURL: https://api.iextrading.com//1.0
   tags: Marketplace, Market Data, Data Provider, API Provider, Financial Services,
-    Profiles, General Data API, Service API, Relative Data API, Pedestal
+    Profiles, General Data, Service API, Relative Data, Pedestal, Historical Data
+    API, StreamRank, Relative StreamRank
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stockmarketbatch-get-openapi.md
@@ -262,7 +266,8 @@ apis:
   humanURL: https://iextrading.com
   baseURL: https://api.iextrading.com//1.0
   tags: Marketplace, Market Data, Data Provider, API Provider, Financial Services,
-    Profiles, General Data API, Service API, Relative Data API, Pedestal
+    Profiles, General Data, Service API, Relative Data, Pedestal, Historical Data
+    API, StreamRank, Relative StreamRank
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stockmarketbatch-get-openapi.md
@@ -281,7 +286,8 @@ apis:
   humanURL: https://iextrading.com
   baseURL: https://api.iextrading.com//1.0
   tags: Marketplace, Market Data, Data Provider, API Provider, Financial Services,
-    Profiles, General Data API, Service API, Relative Data API, Pedestal
+    Profiles, General Data, Service API, Relative Data, Pedestal, Historical Data
+    API, StreamRank, Relative StreamRank
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stockmarketbatch-get-openapi.md
@@ -302,7 +308,8 @@ apis:
   humanURL: https://iextrading.com
   baseURL: https://api.iextrading.com//1.0
   tags: Marketplace, Market Data, Data Provider, API Provider, Financial Services,
-    Profiles, General Data API, Service API, Relative Data API, Pedestal
+    Profiles, General Data, Service API, Relative Data, Pedestal, Historical Data
+    API, StreamRank, Relative StreamRank
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stockmarketbatch-get-openapi.md
@@ -325,7 +332,8 @@ apis:
   humanURL: https://iextrading.com
   baseURL: https://api.iextrading.com//1.0
   tags: Marketplace, Market Data, Data Provider, API Provider, Financial Services,
-    Profiles, General Data API, Service API, Relative Data API, Pedestal
+    Profiles, General Data, Service API, Relative Data, Pedestal, Historical Data
+    API, StreamRank, Relative StreamRank
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stockmarketbatch-get-openapi.md
@@ -350,7 +358,8 @@ apis:
   humanURL: https://iextrading.com
   baseURL: https://api.iextrading.com//1.0
   tags: Marketplace, Market Data, Data Provider, API Provider, Financial Services,
-    Profiles, General Data API, Service API, Relative Data API, Pedestal
+    Profiles, General Data, Service API, Relative Data, Pedestal, Historical Data
+    API, StreamRank, Relative StreamRank
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stockmarketbatch-get-openapi.md
@@ -377,7 +386,8 @@ apis:
   humanURL: https://iextrading.com
   baseURL: https://api.iextrading.com//1.0
   tags: Marketplace, Market Data, Data Provider, API Provider, Financial Services,
-    Profiles, General Data API, Service API, Relative Data API, Pedestal
+    Profiles, General Data, Service API, Relative Data, Pedestal, Historical Data
+    API, StreamRank, Relative StreamRank
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stockmarketbatch-get-openapi.md
@@ -406,7 +416,8 @@ apis:
   humanURL: https://iextrading.com
   baseURL: https://api.iextrading.com//1.0
   tags: Marketplace, Market Data, Data Provider, API Provider, Financial Services,
-    Profiles, General Data API, Service API, Relative Data API, Pedestal
+    Profiles, General Data, Service API, Relative Data, Pedestal, Historical Data
+    API, StreamRank, Relative StreamRank
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stockmarketbatch-get-openapi.md
@@ -437,7 +448,8 @@ apis:
   humanURL: https://iextrading.com
   baseURL: https://api.iextrading.com//1.0
   tags: Marketplace, Market Data, Data Provider, API Provider, Financial Services,
-    Profiles, General Data API, Service API, Relative Data API, Pedestal
+    Profiles, General Data, Service API, Relative Data, Pedestal, Historical Data
+    API, StreamRank, Relative StreamRank
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stockmarketbatch-get-openapi.md
@@ -470,7 +482,8 @@ apis:
   humanURL: https://iextrading.com
   baseURL: https://api.iextrading.com//1.0
   tags: Marketplace, Market Data, Data Provider, API Provider, Financial Services,
-    Profiles, General Data API, Service API, Relative Data API, Pedestal
+    Profiles, General Data, Service API, Relative Data, Pedestal, Historical Data
+    API, StreamRank, Relative StreamRank
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stockmarketbatch-get-openapi.md
@@ -505,7 +518,8 @@ apis:
   humanURL: https://iextrading.com
   baseURL: https://api.iextrading.com//1.0
   tags: Marketplace, Market Data, Data Provider, API Provider, Financial Services,
-    Profiles, General Data API, Service API, Relative Data API, Pedestal
+    Profiles, General Data, Service API, Relative Data, Pedestal, Historical Data
+    API, StreamRank, Relative StreamRank
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stockmarketbatch-get-openapi.md
@@ -542,7 +556,8 @@ apis:
   humanURL: https://iextrading.com
   baseURL: https://api.iextrading.com//1.0
   tags: Marketplace, Market Data, Data Provider, API Provider, Financial Services,
-    Profiles, General Data API, Service API, Relative Data API, Pedestal
+    Profiles, General Data, Service API, Relative Data, Pedestal, Historical Data
+    API, StreamRank, Relative StreamRank
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stockmarketbatch-get-openapi.md
@@ -581,7 +596,8 @@ apis:
   humanURL: https://iextrading.com
   baseURL: https://api.iextrading.com//1.0
   tags: Marketplace, Market Data, Data Provider, API Provider, Financial Services,
-    Profiles, General Data API, Service API, Relative Data API, Pedestal
+    Profiles, General Data, Service API, Relative Data, Pedestal, Historical Data
+    API, StreamRank, Relative StreamRank
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stockmarketbatch-get-openapi.md
@@ -622,7 +638,8 @@ apis:
   humanURL: https://iextrading.com
   baseURL: https://api.iextrading.com//1.0
   tags: Marketplace, Market Data, Data Provider, API Provider, Financial Services,
-    Profiles, General Data API, Service API, Relative Data API, Pedestal
+    Profiles, General Data, Service API, Relative Data, Pedestal, Historical Data
+    API, StreamRank, Relative StreamRank
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stockmarketbatch-get-openapi.md
@@ -665,7 +682,8 @@ apis:
   humanURL: https://iextrading.com
   baseURL: https://api.iextrading.com//1.0
   tags: Marketplace, Market Data, Data Provider, API Provider, Financial Services,
-    Profiles, General Data API, Service API, Relative Data API, Pedestal
+    Profiles, General Data, Service API, Relative Data, Pedestal, Historical Data
+    API, StreamRank, Relative StreamRank
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stockmarketbatch-get-openapi.md
@@ -710,7 +728,8 @@ apis:
   humanURL: https://iextrading.com
   baseURL: https://api.iextrading.com//1.0
   tags: Marketplace, Market Data, Data Provider, API Provider, Financial Services,
-    Profiles, General Data API, Service API, Relative Data API, Pedestal
+    Profiles, General Data, Service API, Relative Data, Pedestal, Historical Data
+    API, StreamRank, Relative StreamRank
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stockmarketbatch-get-openapi.md
@@ -757,7 +776,8 @@ apis:
   humanURL: https://iextrading.com
   baseURL: https://api.iextrading.com//1.0
   tags: Marketplace, Market Data, Data Provider, API Provider, Financial Services,
-    Profiles, General Data API, Service API, Relative Data API, Pedestal
+    Profiles, General Data, Service API, Relative Data, Pedestal, Historical Data
+    API, StreamRank, Relative StreamRank
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stockmarketbatch-get-openapi.md
@@ -806,7 +826,8 @@ apis:
   humanURL: https://iextrading.com
   baseURL: https://api.iextrading.com//1.0
   tags: Marketplace, Market Data, Data Provider, API Provider, Financial Services,
-    Profiles, General Data API, Service API, Relative Data API, Pedestal
+    Profiles, General Data, Service API, Relative Data, Pedestal, Historical Data
+    API, StreamRank, Relative StreamRank
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stockmarketbatch-get-openapi.md
@@ -857,7 +878,8 @@ apis:
   humanURL: https://iextrading.com
   baseURL: https://api.iextrading.com//1.0
   tags: Marketplace, Market Data, Data Provider, API Provider, Financial Services,
-    Profiles, General Data API, Service API, Relative Data API, Pedestal
+    Profiles, General Data, Service API, Relative Data, Pedestal, Historical Data
+    API, StreamRank, Relative StreamRank
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/stockmarketbatch-get-openapi.md
@@ -915,6 +937,8 @@ apis:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/openapi.md
 x-common:
+- type: x-api-gallery
+  url: http://idx.broker.api.gallery.streamdata.io
 - type: x-api-stack
   url: http://iex.stack.network
 - type: x-authentication

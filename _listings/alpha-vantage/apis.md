@@ -11,8 +11,8 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "8"
 x-alexaRank: "160846"
 tags: Market Data
-created: "2018-08-19"
-modified: "2018-08-19"
+created: "2018-08-23"
+modified: "2018-08-23"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/alpha-vantage/apis.md
 specificationVersion: "0.14"
 apis:
@@ -24,7 +24,7 @@ apis:
   humanURL: https://www.alphavantage.co
   baseURL: https://www.alphavantage.co//
   tags: Blockchain, Market Data, Free Tier, Have API Key, Blockchains, API Provider,
-    Profiles, Relative Data API
+    Profiles, Relative Data
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/alpha-vantage/queryfunctiontime-series-intraday-get-openapi.md
@@ -36,7 +36,7 @@ apis:
   humanURL: https://www.alphavantage.co
   baseURL: https://www.alphavantage.co//
   tags: Blockchain, Market Data, Free Tier, Have API Key, Blockchains, API Provider,
-    Profiles, Relative Data API
+    Profiles, Relative Data
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/alpha-vantage/queryfunctiontime-series-intraday-get-openapi.md
@@ -50,7 +50,7 @@ apis:
   humanURL: https://www.alphavantage.co
   baseURL: https://www.alphavantage.co//
   tags: Blockchain, Market Data, Free Tier, Have API Key, Blockchains, API Provider,
-    Profiles, Relative Data API
+    Profiles, Relative Data
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/alpha-vantage/queryfunctiontime-series-intraday-get-openapi.md
@@ -66,7 +66,7 @@ apis:
   humanURL: https://www.alphavantage.co
   baseURL: https://www.alphavantage.co//
   tags: Blockchain, Market Data, Free Tier, Have API Key, Blockchains, API Provider,
-    Profiles, Relative Data API
+    Profiles, Relative Data
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/alpha-vantage/queryfunctiontime-series-intraday-get-openapi.md
@@ -84,7 +84,7 @@ apis:
   humanURL: https://www.alphavantage.co
   baseURL: https://www.alphavantage.co//
   tags: Blockchain, Market Data, Free Tier, Have API Key, Blockchains, API Provider,
-    Profiles, Relative Data API
+    Profiles, Relative Data
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/alpha-vantage/queryfunctiontime-series-intraday-get-openapi.md
@@ -104,7 +104,7 @@ apis:
   humanURL: https://www.alphavantage.co
   baseURL: https://www.alphavantage.co//
   tags: Blockchain, Market Data, Free Tier, Have API Key, Blockchains, API Provider,
-    Profiles, Relative Data API
+    Profiles, Relative Data
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/alpha-vantage/queryfunctiontime-series-intraday-get-openapi.md
@@ -126,7 +126,7 @@ apis:
   humanURL: https://www.alphavantage.co
   baseURL: https://www.alphavantage.co//
   tags: Blockchain, Market Data, Free Tier, Have API Key, Blockchains, API Provider,
-    Profiles, Relative Data API
+    Profiles, Relative Data
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/alpha-vantage/queryfunctiontime-series-intraday-get-openapi.md
@@ -150,7 +150,7 @@ apis:
   humanURL: https://www.alphavantage.co
   baseURL: https://www.alphavantage.co//
   tags: Blockchain, Market Data, Free Tier, Have API Key, Blockchains, API Provider,
-    Profiles, Relative Data API
+    Profiles, Relative Data
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/alpha-vantage/queryfunctiontime-series-intraday-get-openapi.md
@@ -176,7 +176,7 @@ apis:
   humanURL: https://www.alphavantage.co
   baseURL: https://www.alphavantage.co//
   tags: Blockchain, Market Data, Free Tier, Have API Key, Blockchains, API Provider,
-    Profiles, Relative Data API
+    Profiles, Relative Data
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/alpha-vantage/queryfunctiontime-series-intraday-get-openapi.md
@@ -204,7 +204,7 @@ apis:
   humanURL: https://www.alphavantage.co
   baseURL: https://www.alphavantage.co//
   tags: Blockchain, Market Data, Free Tier, Have API Key, Blockchains, API Provider,
-    Profiles, Relative Data API
+    Profiles, Relative Data
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/alpha-vantage/queryfunctiontime-series-intraday-get-openapi.md
@@ -234,7 +234,7 @@ apis:
   humanURL: https://www.alphavantage.co
   baseURL: https://www.alphavantage.co//
   tags: Blockchain, Market Data, Free Tier, Have API Key, Blockchains, API Provider,
-    Profiles, Relative Data API
+    Profiles, Relative Data
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/alpha-vantage/queryfunctiontime-series-intraday-get-openapi.md
@@ -266,7 +266,7 @@ apis:
   humanURL: https://www.alphavantage.co
   baseURL: https://www.alphavantage.co//
   tags: Blockchain, Market Data, Free Tier, Have API Key, Blockchains, API Provider,
-    Profiles, Relative Data API
+    Profiles, Relative Data
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/alpha-vantage/queryfunctiontime-series-intraday-get-openapi.md
@@ -300,7 +300,7 @@ apis:
   humanURL: https://www.alphavantage.co
   baseURL: https://www.alphavantage.co//
   tags: Blockchain, Market Data, Free Tier, Have API Key, Blockchains, API Provider,
-    Profiles, Relative Data API
+    Profiles, Relative Data
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/alpha-vantage/queryfunctiontime-series-intraday-get-openapi.md
@@ -336,7 +336,7 @@ apis:
   humanURL: https://www.alphavantage.co
   baseURL: https://www.alphavantage.co//
   tags: Blockchain, Market Data, Free Tier, Have API Key, Blockchains, API Provider,
-    Profiles, Relative Data API
+    Profiles, Relative Data
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/alpha-vantage/queryfunctiontime-series-intraday-get-openapi.md
@@ -374,7 +374,7 @@ apis:
   humanURL: https://www.alphavantage.co
   baseURL: https://www.alphavantage.co//
   tags: Blockchain, Market Data, Free Tier, Have API Key, Blockchains, API Provider,
-    Profiles, Relative Data API
+    Profiles, Relative Data
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/alpha-vantage/queryfunctiontime-series-intraday-get-openapi.md
@@ -414,7 +414,7 @@ apis:
   humanURL: https://www.alphavantage.co
   baseURL: https://www.alphavantage.co//
   tags: Blockchain, Market Data, Free Tier, Have API Key, Blockchains, API Provider,
-    Profiles, Relative Data API
+    Profiles, Relative Data
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/alpha-vantage/queryfunctiontime-series-intraday-get-openapi.md
@@ -456,7 +456,7 @@ apis:
   humanURL: https://www.alphavantage.co
   baseURL: https://www.alphavantage.co//
   tags: Blockchain, Market Data, Free Tier, Have API Key, Blockchains, API Provider,
-    Profiles, Relative Data API
+    Profiles, Relative Data
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/alpha-vantage/queryfunctiontime-series-intraday-get-openapi.md
@@ -500,7 +500,7 @@ apis:
   humanURL: https://www.alphavantage.co
   baseURL: https://www.alphavantage.co//
   tags: Blockchain, Market Data, Free Tier, Have API Key, Blockchains, API Provider,
-    Profiles, Relative Data API
+    Profiles, Relative Data
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/alpha-vantage/queryfunctiontime-series-intraday-get-openapi.md
@@ -546,7 +546,7 @@ apis:
   humanURL: https://www.alphavantage.co
   baseURL: https://www.alphavantage.co//
   tags: Blockchain, Market Data, Free Tier, Have API Key, Blockchains, API Provider,
-    Profiles, Relative Data API
+    Profiles, Relative Data
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/alpha-vantage/queryfunctiontime-series-intraday-get-openapi.md
@@ -594,7 +594,7 @@ apis:
   humanURL: https://www.alphavantage.co
   baseURL: https://www.alphavantage.co//
   tags: Blockchain, Market Data, Free Tier, Have API Key, Blockchains, API Provider,
-    Profiles, Relative Data API
+    Profiles, Relative Data
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/alpha-vantage/queryfunctiontime-series-intraday-get-openapi.md
@@ -644,7 +644,7 @@ apis:
   humanURL: https://www.alphavantage.co
   baseURL: https://www.alphavantage.co//
   tags: Blockchain, Market Data, Free Tier, Have API Key, Blockchains, API Provider,
-    Profiles, Relative Data API
+    Profiles, Relative Data
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/alpha-vantage/queryfunctiontime-series-intraday-get-openapi.md
@@ -696,7 +696,7 @@ apis:
   humanURL: https://www.alphavantage.co
   baseURL: https://www.alphavantage.co//
   tags: Blockchain, Market Data, Free Tier, Have API Key, Blockchains, API Provider,
-    Profiles, Relative Data API
+    Profiles, Relative Data
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/alpha-vantage/queryfunctiontime-series-intraday-get-openapi.md
@@ -750,7 +750,7 @@ apis:
   humanURL: https://www.alphavantage.co
   baseURL: https://www.alphavantage.co//
   tags: Blockchain, Market Data, Free Tier, Have API Key, Blockchains, API Provider,
-    Profiles, Relative Data API
+    Profiles, Relative Data
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/alpha-vantage/queryfunctiontime-series-intraday-get-openapi.md
@@ -814,6 +814,8 @@ apis:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/alpha-vantage/openapi.md
 x-common:
+- type: x-api-gallery
+  url: http://alpha.vantage.api.gallery.streamdata.io
 - type: x-api-stack
   url: http://alpha.vantage.stack.network
 - type: x-command-line-interface

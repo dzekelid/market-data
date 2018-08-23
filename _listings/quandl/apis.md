@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11440-quan
 x-kinRank: "8"
 x-alexaRank: "53781"
 tags: Market Data
-created: "2018-08-19"
-modified: "2018-08-19"
+created: "2018-08-23"
+modified: "2018-08-23"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/quandl/apis.md
 specificationVersion: "0.14"
 apis:
@@ -20,8 +20,8 @@ apis:
   baseURL: https://www.quandl.com//api/v3
   tags: Finance, Data, Finance, Target, Imports, Stack Network, internet, Technology,
     SaaS, Enterprise, Market Data, Sign In With Github, Sign In With Google, Sign
-    In With LinkedIn, Have API Key, Visualizations, General Data API, Relative Data
-    API, Service API
+    In With LinkedIn, Have API Key, Visualizations, General Data, Relative Data, Service
+    API
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/quandl/datasetsdatabase-codedataset-codemetadata-get-postman.md
@@ -35,8 +35,8 @@ apis:
   baseURL: https://www.quandl.com//api/v3
   tags: Finance, Data, Finance, Target, Imports, Stack Network, internet, Technology,
     SaaS, Enterprise, Market Data, Sign In With Github, Sign In With Google, Sign
-    In With LinkedIn, Have API Key, Visualizations, General Data API, Relative Data
-    API, Service API
+    In With LinkedIn, Have API Key, Visualizations, General Data, Relative Data, Service
+    API
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/quandl/datasetsdatabase-codedataset-codemetadata-get-postman.md
@@ -54,8 +54,8 @@ apis:
   baseURL: https://www.quandl.com//api/v3
   tags: Finance, Data, Finance, Target, Imports, Stack Network, internet, Technology,
     SaaS, Enterprise, Market Data, Sign In With Github, Sign In With Google, Sign
-    In With LinkedIn, Have API Key, Visualizations, General Data API, Relative Data
-    API, Service API
+    In With LinkedIn, Have API Key, Visualizations, General Data, Relative Data, Service
+    API
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/quandl/datasetsdatabase-codedataset-codemetadata-get-postman.md
@@ -77,8 +77,8 @@ apis:
   baseURL: https://www.quandl.com//api/v3
   tags: Finance, Data, Finance, Target, Imports, Stack Network, internet, Technology,
     SaaS, Enterprise, Market Data, Sign In With Github, Sign In With Google, Sign
-    In With LinkedIn, Have API Key, Visualizations, General Data API, Relative Data
-    API, Service API
+    In With LinkedIn, Have API Key, Visualizations, General Data, Relative Data, Service
+    API
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/quandl/datasetsdatabase-codedataset-codemetadata-get-postman.md
@@ -104,8 +104,8 @@ apis:
   baseURL: https://www.quandl.com//api/v3
   tags: Finance, Data, Finance, Target, Imports, Stack Network, internet, Technology,
     SaaS, Enterprise, Market Data, Sign In With Github, Sign In With Google, Sign
-    In With LinkedIn, Have API Key, Visualizations, General Data API, Relative Data
-    API, Service API
+    In With LinkedIn, Have API Key, Visualizations, General Data, Relative Data, Service
+    API
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/quandl/datasetsdatabase-codedataset-codemetadata-get-postman.md
@@ -135,8 +135,8 @@ apis:
   baseURL: https://www.quandl.com//api/v3
   tags: Finance, Data, Finance, Target, Imports, Stack Network, internet, Technology,
     SaaS, Enterprise, Market Data, Sign In With Github, Sign In With Google, Sign
-    In With LinkedIn, Have API Key, Visualizations, General Data API, Relative Data
-    API, Service API
+    In With LinkedIn, Have API Key, Visualizations, General Data, Relative Data, Service
+    API
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/quandl/datasetsdatabase-codedataset-codemetadata-get-postman.md
@@ -170,8 +170,8 @@ apis:
   baseURL: https://www.quandl.com//api/v3
   tags: Finance, Data, Finance, Target, Imports, Stack Network, internet, Technology,
     SaaS, Enterprise, Market Data, Sign In With Github, Sign In With Google, Sign
-    In With LinkedIn, Have API Key, Visualizations, General Data API, Relative Data
-    API, Service API
+    In With LinkedIn, Have API Key, Visualizations, General Data, Relative Data, Service
+    API
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/quandl/datasetsdatabase-codedataset-codemetadata-get-postman.md
@@ -209,8 +209,8 @@ apis:
   baseURL: https://www.quandl.com//api/v3
   tags: Finance, Data, Finance, Target, Imports, Stack Network, internet, Technology,
     SaaS, Enterprise, Market Data, Sign In With Github, Sign In With Google, Sign
-    In With LinkedIn, Have API Key, Visualizations, General Data API, Relative Data
-    API, Service API
+    In With LinkedIn, Have API Key, Visualizations, General Data, Relative Data, Service
+    API
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/quandl/datasetsdatabase-codedataset-codemetadata-get-postman.md
@@ -256,6 +256,8 @@ apis:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/quandl/openapi.md
 x-common:
+- type: x-api-gallery
+  url: http://qualpay.api.gallery.streamdata.io
 - type: x-api-stack
   url: http://quandl.stack.network
 - type: x-authentication
