@@ -1,4 +1,3 @@
----
 swagger: "2.0"
 x-collection-name: Quandl
 x-complete: 1
@@ -305,4 +304,3 @@ paths:
       tags:
       - Market Data
       - Databases
----

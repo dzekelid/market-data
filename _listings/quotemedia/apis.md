@@ -9,24 +9,11 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "7"
 x-alexaRank: "191171"
 tags: Market Data
-created: "2018-08-23"
-modified: "2018-08-23"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/quotemedia/apis.md
 specificationVersion: "0.14"
-apis:
-- name: QuoteMedia
-  x-api-slug: quotemedia
-  description: QuoteMedia Inc. provides financial data, news feeds, market research
-    information and financial software solutions to online brokerages, clearing firms,
-    banks, financial service companies, media portals and public corporations. The
-    Company offers a sour...
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/quotemedia_large_company_logo.png
-  humanURL: http://quotemedia.com
-  baseURL: https:///
-  tags: Market Data
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/quotemedia/openapi.md
+apis: []
 x-common:
 - type: x-contact-form
   url: http://www.quotemedia.com/contact

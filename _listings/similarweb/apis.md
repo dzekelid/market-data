@@ -7,22 +7,11 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/3499-simil
 x-kinRank: "8"
 x-alexaRank: "2261"
 tags: Market Data
-created: "2018-08-23"
-modified: "2018-08-23"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/similarweb/apis.md
 specificationVersion: "0.14"
-apis:
-- name: SimilarWeb
-  x-api-slug: similarweb
-  description: Grow your market share and website traffic with SimilarWebs digital
-    market intelligence platform. Compare any website traffic statistics & analytics.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/3499-similarweb.jpg
-  humanURL: http://www.similarweb.com/
-  baseURL: https:///
-  tags: Market Data
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/similarweb/openapi.md
+apis: []
 x-common:
 - type: x-base
   url: http://api.similarweb.com/

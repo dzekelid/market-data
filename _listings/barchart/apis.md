@@ -7,22 +7,11 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/21632-www-
 x-kinRank: "7"
 x-alexaRank: "15739"
 tags: Market Data
-created: "2018-08-23"
-modified: "2018-08-23"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/barchart/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Barchart API
-  x-api-slug: barchart-api
-  description: Barchart.com is the leading provider of intraday stock and commodities
-    real-time or delayed charts with powerful indicators and technical analysis.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/21632-www-barchart-com.jpg
-  humanURL: https://www.barchart.com
-  baseURL: https://marketdata.websol.barchart.com//
-  tags: Market Data
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/barchart/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://bank.of.scotland.api.gallery.streamdata.io

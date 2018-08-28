@@ -7,22 +7,11 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28295-www-
 x-kinRank: "8"
 x-alexaRank: "565034"
 tags: Market Data
-created: "2018-08-23"
-modified: "2018-08-23"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/tradeit/apis.md
 specificationVersion: "0.14"
-apis:
-- name: TradeIt
-  x-api-slug: tradeit
-  description: The API infrastructure that links retail investors and app developers
-    with any online financial broker.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28295-www-trade-it.jpg
-  humanURL: https://blog.trade.it/
-  baseURL: https:///
-  tags: Market Data
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/tradeit/openapi.md
+apis: []
 x-common:
 - type: x-website
   url: https://blog.trade.it/

@@ -1,49 +1,470 @@
 {
-	"name": "Coherent Data Adapter: OpenFIGI Client Edition",
-	"x-slug": "coherent-data-adapter-openfigi-client-edition",
-	"description": "Eliminate redundant mapping processes, streamline the trade workflow and reduce operational risk with more than 300 trillion potential identifiers available.",
-	"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28890-openfigi-com.jpg",
-	"x-kinRank": "7",
-	"x-alexaRank": "2116239",
-	"tags": "Market Data",
-	"created": "2018-08-23",
-	"modified": "2018-08-23",
-	"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/market-data\/master\/_listings\/coherent-data-adapter-openfigi-client-edition\/apis.md",
+	"name": "Streadata.io API Gallery - Market Data",
+	"description": "This is a repository of market data APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/market-data.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-28",
+	"url": "http://market-data.streamdata.gallery/apis.json",
 	"specificationVersion": "0.14",
 	"apis": [
 		{
-			"name": "Coherent Data Adapter: OpenFIGI Client Edition",
-			"x-api-slug": "coherent-data-adapter-openfigi-client-edition",
-			"description": "Eliminate redundant mapping processes, streamline the trade workflow and reduce operational risk with more than 300 trillion potential identifiers available.",
-			"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28890-openfigi-com.jpg",
-			"humanURL": "https:\/\/openfigi.com",
-			"baseURL": "https:\/\/\/",
+			"name": "Xignite",
+			"x-api-slug": "xignite",
+			"description": "Financial market data on-demand. Xignite financial Web services help build smarter websites and applications in minutes with zero up-front investment.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/xignite-logo.png",
+			"humanURL": "http://www.xignite.com",
+			"baseURL": "https://www.xignite.com/xVWAP.json/XigniteVWAP",
 			"tags": "Market Data",
 			"properties": [
 				{
 					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/market-data\/master\/_listings\/coherent-data-adapter-openfigi-client-edition\/openapi.md"
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "SimilarWeb",
+			"x-api-slug": "similarweb",
+			"description": "Grow your market share and website traffic with SimilarWebs digital market intelligence platform. Compare any website traffic statistics & analytics.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/3499-similarweb.jpg",
+			"humanURL": "http://www.similarweb.com/",
+			"baseURL": "https:///",
+			"tags": "Market Data",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/similarweb/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Knoema",
+			"x-api-slug": "knoema",
+			"description": "Knoema is the free to use public and open data platform for users with interests in statistics and data analysis, visual storytelling and making infographics and data-driven presentations",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/knoema-logo.jpg",
+			"humanURL": "https://knoema.com",
+			"baseURL": "http://knoema.com//api/1.0",
+			"tags": "Market Data",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/knoema/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Quandl",
+			"x-api-slug": "quandl",
+			"description": "Quandl delivers financial data to users in the format they want. Access thousands of databases via the Quandl API or in your tool of choice.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11440-quandl.jpg",
+			"humanURL": "http://quandl.com",
+			"baseURL": "https://www.quandl.com//api/v3",
+			"tags": "Market Data",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/quandl/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "OANDA",
+			"x-api-slug": "oanda",
+			"description": "OANDA: Award-winning leader in Currency Data, Forex & CFD Trading, offering leveraged trading, payment and data services for businesses and investors.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/19007-oanda.jpg",
+			"humanURL": "http://www.oanda.com/",
+			"baseURL": "https:///",
+			"tags": "Market Data",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/oanda/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Thomson Reuters",
+			"x-api-slug": "thomson-reuters",
+			"description": "The intelligence, technology and human expertise you need to find trusted answers. Thomson Reuters is The Answer Company.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/20120-blog-financial-thomsonreuters-com.jpg",
+			"humanURL": "http://thomsonreuters.com/",
+			"baseURL": "https:///",
+			"tags": "Market Data",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/thomson-reuters/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Barchart",
+			"x-api-slug": "barchart",
+			"description": "Barchart.com is the leading provider of intraday stock and commodities real-time or delayed charts with powerful indicators and technical analysis.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/21632-www-barchart-com.jpg",
+			"humanURL": "https://www.barchart.com",
+			"baseURL": "https://marketdata.websol.barchart.com//",
+			"tags": "Market Data",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/barchart/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Alpha Vantage",
+			"x-api-slug": "alpha-vantage",
+			"description": "Composed of a tight-knit community of researchers, engineers, and business professionals, Alpha Vantage Inc. is a leading provider of free APIs for realtime and historical data on stocks, physical currencies, and digital/crypto currencies. Our success is driven by rigorous research, cutting edge technology, and a disciplined focus on democratizing access to data.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen Shot 2018-01-22 at 4.52.35 PM.png",
+			"humanURL": "https://www.alphavantage.co",
+			"baseURL": "https://www.alphavantage.co//",
+			"tags": "Market Data",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/alpha-vantage/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "APIDataFeed",
+			"x-api-slug": "apidatafeed",
+			"description": "APIDataFeed is a product of C-MOTS Infotech, a leading financial information and software solutions provider with a global presence of almost two decades. We are ISO 9001:2008 certified. APIDataFeed provide financial market APIs in easy-to-use data formats on a single interactive website. Data analysts can now save time and effort in delivering live data to their websites and apps. Financial data include APIs for Equity, Mutual Funds, Company Announcements, Commodities, Currency, News, Other Markets, IPOs, Company Information, Derivatives with different frequency options such as Delayed, Historical and End of the Day.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api_logo1.jpg",
+			"humanURL": "http://www.apidatafeed.com",
+			"baseURL": "https:///",
+			"tags": "Market Data",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/apidatafeed/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Intrinio",
+			"x-api-slug": "intrinio",
+			"description": "Intelligent Data, On Demand. The financial data platform for developers, investors, students, and educators, with over 200 feeds including real-time, intraday, EOD, and international financial data available via REST API, WebSocket, CSV, Excel, and Goo...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/intrinio-logo-data-intelligence-on-demand.png",
+			"humanURL": "http://www.intrinio.com",
+			"baseURL": "https:///",
+			"tags": "Market Data",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/intrinio/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "1Forge",
+			"x-api-slug": "1forge",
+			"description": "Exchange Rate API, Currency Conversion API and Realtime Forex Quote API. Serving realtime tick data for over 500 forex currency pairs and commodities.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/1forge-logo.png",
+			"humanURL": "http://1forge.com",
+			"baseURL": "https:///",
+			"tags": "Market Data",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/1forge/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "QuoteMedia",
+			"x-api-slug": "quotemedia",
+			"description": "QuoteMedia Inc. provides financial data, news feeds, market research information and financial software solutions to online brokerages, clearing firms, banks, financial service companies, media portals and public corporations. The Company offers a sour...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/quotemedia_large_company_logo.png",
+			"humanURL": "http://quotemedia.com",
+			"baseURL": "https:///",
+			"tags": "Market Data",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/quotemedia/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Exante",
+			"x-api-slug": "exante",
+			"description": "EXANTE is a next generation investment company that aims to give its clients access to a broad range of financial instruments and markets. EXANTEs all-in-one multi-asset platform ensures optimal portfolio overview and extensive global reach on wide variety of financial products (Currencies, Swaps, CFDs, Stocks, Options, Bonds, Commodities, Futures, Funds, FOPs). EXANTE has a unique exchange-like open order book on all products with equal execution rules for everyone.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28085-developers-exante-eu.jpg",
+			"humanURL": "https://exante.eu",
+			"baseURL": "https:///",
+			"tags": "Market Data",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/exante/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Tiingo",
+			"x-api-slug": "tiingo",
+			"description": "Tiingo is a financial web app dedicated to making high-end financial tools accessible to both the everyday and professional investor.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen Shot 2018-01-28 at 6.27.34 PM.png",
+			"humanURL": "https://tiingo.com",
+			"baseURL": "https:///",
+			"tags": "Market Data",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/tiingo/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "QUODD Financial",
+			"x-api-slug": "quodd-financial",
+			"description": "QUODD Equity+ is a comprehensive market data workstation designed for the financial investment professional",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28091-quodd-financial.jpg",
+			"humanURL": "http://home.quodd.com",
+			"baseURL": "https:///",
+			"tags": "Market Data",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/quodd-financial/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "IEX",
+			"x-api-slug": "iex",
+			"description": "IEX, the Investors Exchange, is a fair, simple and transparent stock exchange dedicated to investor and issuer protection.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28093-iex.jpg",
+			"humanURL": "https://iextrading.com",
+			"baseURL": "https://api.iextrading.com//1.0",
+			"tags": "Market Data",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Morningstar",
+			"x-api-slug": "morningstar",
+			"description": "Morningstar is an investment research company offering mutual fund, ETF, and stock analysis, ratings, and data, and portfolio tools. Discover actionable insights today.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28283-apicenter-morningstar-com.jpg",
+			"humanURL": "https://apicenter.morningstar.com",
+			"baseURL": "https:///",
+			"tags": "Market Data",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/morningstar/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Quovo",
+			"x-api-slug": "quovo",
+			"description": "Quovo&rsquo;s API provides methods for retrieving data from financial institutions on behalf of clients, advisors, and other users. This documentation includes detailed explanations of API endpoints and common data definitions. Please note that this documentation does not list all API endpoints. Additionally, you may not have access to all of the listed endpoints depending on the services you&rsquo;ve purchased from Quovo.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28293-quovo.jpg",
+			"humanURL": "http://quovo.com",
+			"baseURL": "https://example.com//",
+			"tags": "Market Data",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/quovo/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "TradeIt",
+			"x-api-slug": "tradeit",
+			"description": "The API infrastructure that links retail investors and app developers with any online financial broker.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28295-www-trade-it.jpg",
+			"humanURL": "https://blog.trade.it/",
+			"baseURL": "https:///",
+			"tags": "Market Data",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/tradeit/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Pico Quantitative Trading",
+			"x-api-slug": "pico-quantitative-trading",
+			"description": "",
+			"image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/api-butterfly.png",
+			"humanURL": "https://www.picotrading.com",
+			"baseURL": "https:///",
+			"tags": "Market Data",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/pico-quantitative-trading/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Options",
+			"x-api-slug": "options",
+			"description": "Options is the leading global provider of financial technology managed services, hedge fund technology and IT infrastructure products.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28307-www-options-it-com.jpg",
+			"humanURL": "http://www.options-it.com",
+			"baseURL": "https:///",
+			"tags": "Market Data",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/options/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Polygon",
+			"x-api-slug": "polygon",
+			"description": "Polygon.io offers streaming realtime data for stocks/equities, ETFs, Indecies and Forex/Currencies including crypto currencies. Our Real-Time Stock Data APIs help you build the future on fintech.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/polygon-logo.png",
+			"humanURL": "http://polygon.io",
+			"baseURL": "https://api.polygon.io//",
+			"tags": "Market Data",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/polygon/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "nFusion Solutions",
+			"x-api-slug": "nfusion-solutions",
+			"description": "nFusion Solutions ecosystem of products and solutions lets you power your apps, websites and software with precious metals market data directly from exchanges around the world. Built on the Azure Cloud platform, nFusion delivers a reliable and scalabl...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28883-nfusionsolutions-com.jpg",
+			"humanURL": "http://www.nfusionsolutions.com",
+			"baseURL": "https://api.nfusionsolutions.biz//",
+			"tags": "Market Data",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/nfusion-solutions/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Coherent Data Adapter: OpenFIGI Client Edition",
+			"x-api-slug": "coherent-data-adapter-openfigi-client-edition",
+			"description": "Eliminate redundant mapping processes, streamline the trade workflow and reduce operational risk with more than 300 trillion potential identifiers available.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28890-openfigi-com.jpg",
+			"humanURL": "https://openfigi.com",
+			"baseURL": "https:///",
+			"tags": "Market Data",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/coherent-data-adapter-openfigi-client-edition/openapi.md"
 				}
 			]
 		}
 	],
-	"x-common": [
+	"tags": "Market Data",
+	"include": [
 		{
-			"type": "x-email",
-			"url": "support@openfigi.com"
+			"name": "Xignite",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/xignite/apis.yaml"
 		},
 		{
-			"type": "x-website",
-			"url": "https:\/\/openfigi.com"
-		}
-	],
-	"include": [
-	],
-	"maintainers": [
+			"name": "SimilarWeb",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/similarweb/apis.yaml"
+		},
 		{
-			"FN": "Kin Lane",
-			"x-twitter": "apievangelist",
-			"email": "info@apievangelist.com"
+			"name": "Knoema",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/knoema/apis.yaml"
+		},
+		{
+			"name": "Quandl",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/quandl/apis.yaml"
+		},
+		{
+			"name": "OANDA",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/oanda/apis.yaml"
+		},
+		{
+			"name": "Thomson Reuters",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/thomson-reuters/apis.yaml"
+		},
+		{
+			"name": "Barchart",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/barchart/apis.yaml"
+		},
+		{
+			"name": "Alpha Vantage",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/alpha-vantage/apis.yaml"
+		},
+		{
+			"name": "APIDataFeed",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/apidatafeed/apis.yaml"
+		},
+		{
+			"name": "Intrinio",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/intrinio/apis.yaml"
+		},
+		{
+			"name": "1Forge",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/1forge/apis.yaml"
+		},
+		{
+			"name": "QuoteMedia",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/quotemedia/apis.yaml"
+		},
+		{
+			"name": "Exante",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/exante/apis.yaml"
+		},
+		{
+			"name": "Tiingo",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/tiingo/apis.yaml"
+		},
+		{
+			"name": "QUODD Financial",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/quodd-financial/apis.yaml"
+		},
+		{
+			"name": "IEX",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/iex/apis.yaml"
+		},
+		{
+			"name": "Morningstar",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/morningstar/apis.yaml"
+		},
+		{
+			"name": "Quovo",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/quovo/apis.yaml"
+		},
+		{
+			"name": "TradeIt",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/tradeit/apis.yaml"
+		},
+		{
+			"name": "Pico Quantitative Trading",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/pico-quantitative-trading/apis.yaml"
+		},
+		{
+			"name": "Options",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/options/apis.yaml"
+		},
+		{
+			"name": "Polygon",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/polygon/apis.yaml"
+		},
+		{
+			"name": "nFusion Solutions",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/nfusion-solutions/apis.yaml"
+		},
+		{
+			"name": "Coherent Data Adapter: OpenFIGI Client Edition",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/coherent-data-adapter-openfigi-client-edition/apis.yaml"
 		}
 	]
 }

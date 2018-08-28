@@ -7,22 +7,11 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/19007-oand
 x-kinRank: "7"
 x-alexaRank: "3989"
 tags: Market Data
-created: "2018-08-23"
-modified: "2018-08-23"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/oanda/apis.md
 specificationVersion: "0.14"
-apis:
-- name: OANDA
-  x-api-slug: oanda
-  description: 'OANDA: Award-winning leader in Currency Data, Forex & CFD Trading,
-    offering leveraged trading, payment and data services for businesses and investors.'
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/19007-oanda.jpg
-  humanURL: http://www.oanda.com/
-  baseURL: https:///
-  tags: Market Data
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/oanda/openapi.md
+apis: []
 x-common:
 - type: x-crunchbase
   url: https://crunchbase.com/organization/oanda

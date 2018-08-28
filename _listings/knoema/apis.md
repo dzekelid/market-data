@@ -8,23 +8,11 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "8"
 x-alexaRank: "38551"
 tags: Market Data
-created: "2018-08-23"
-modified: "2018-08-23"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/knoema/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Knoema API
-  x-api-slug: knoema-api
-  description: Knoema is the free to use public and open data platform for users with
-    interests in statistics and data analysis, visual storytelling and making infographics
-    and data-driven presentations
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/knoema-logo.jpg
-  humanURL: https://knoema.com
-  baseURL: http://knoema.com//api/1.0
-  tags: Market Data
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/knoema/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://kentico.cloud.api.gallery.streamdata.io

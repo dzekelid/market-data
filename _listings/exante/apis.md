@@ -11,26 +11,11 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28085-deve
 x-kinRank: "7"
 x-alexaRank: "311981"
 tags: Market Data
-created: "2018-08-23"
-modified: "2018-08-23"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/exante/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Exante
-  x-api-slug: exante
-  description: EXANTE is a next generation investment company that aims to give its
-    clients access to a broad range of financial instruments and markets. EXANTEs
-    all-in-one multi-asset platform ensures optimal portfolio overview and extensive
-    global reach on wide variety of financial products (Currencies, Swaps, CFDs, Stocks,
-    Options, Bonds, Commodities, Futures, Funds, FOPs). EXANTE has a unique exchange-like
-    open order book on all products with equal execution rules for everyone.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28085-developers-exante-eu.jpg
-  humanURL: https://exante.eu
-  baseURL: https:///
-  tags: Market Data
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/exante/openapi.md
+apis: []
 x-common:
 - type: x-authentication
   url: https://developers.exante.eu/api/#authentication

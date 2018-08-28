@@ -8,23 +8,11 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "7"
 x-alexaRank: "414263"
 tags: Market Data
-created: "2018-08-23"
-modified: "2018-08-23"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/tiingo/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Tiingo
-  x-api-slug: tiingo
-  description: Tiingo is a financial web app dedicated to making high-end financial
-    tools accessible to both the everyday and professional investor.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
-    Shot 2018-01-28 at 6.27.34 PM.png
-  humanURL: https://tiingo.com
-  baseURL: https:///
-  tags: Market Data
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/market-data/master/_listings/tiingo/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: https://blog.tiingo.com/
